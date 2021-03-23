@@ -5,11 +5,10 @@ import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
 import store from "./store";
-import { loadInfo, loadRetired, loadRoster, loadStats, loadTrivia, getSchedule } from "./actions/index";
+import { loadRetired, loadRoster, loadStats, loadTrivia, getSchedule } from "./actions/index";
 
 import "./index.css";
 
-store.dispatch(loadInfo());
 store.dispatch(loadRetired());
 store.dispatch(loadRoster());
 store.dispatch(loadStats());

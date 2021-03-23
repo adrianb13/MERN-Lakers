@@ -33,8 +33,7 @@ const options = {
 }
 
 //MongoDB database connection
-mongoose.connect("mongodb+srv://adrianb13:Mongo4me@freegeneral-aws-east.vmh3y.mongodb.net/lakers?retryWrites=true&w=majority", options);
-
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/lakers", options);
 
 //Server Connection
 app.listen(PORT, function () {

@@ -33,10 +33,10 @@ const options = {
 }
 
 //MongoDB database connection
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/lakers", options);
+mongoose.connect("mongodb+srv://adrianb13:Mongo4me@freegeneral-aws-east.vmh3y.mongodb.net/lakers?retryWrites=true&w=majority", options);
+
 
 //Server Connection
 app.listen(PORT, function () {
-  console.log(process.env.MONGODB_URI)
   console.log("Listening on port:" + PORT);
 });

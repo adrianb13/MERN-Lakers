@@ -30,9 +30,10 @@ export const getSchedule = () => {
   return (dispatch) => {
     return API.getSchedule()
       .then(res => {
+        console.log("res", res)
         dispatch(getScheduleSuccess(res.data))
       })
-      .catch(err => console.log(err))
+      .catch(err => console.log("error",err))
   };
 };
 

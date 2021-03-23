@@ -37,5 +37,6 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/lakers", 
 
 //Server Connection
 app.listen(PORT, function () {
+  console.log(process.env.MONGODB_URI)
   console.log("Listening on port:" + PORT);
 });

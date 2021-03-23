@@ -21,11 +21,11 @@ Assuming you already have NODE installed, proceed with the following. If not, yo
 
 --If you want a new folder-- (do not include <> in any of the following) This creates a new folder: mkdir Then move into the new folder: cd Then clone folder: git clone git@github.com:adrianb13/ReactRedux-Lakers.git
 
---Using existing folder-- Then clone folder: git clone git@github.com:adrianb13/ReactRedux-Lakers.git
+--Using existing folder-- Then clone folder: git clone git@github.com:adrianb13/MERN-Lakers.git
 
 This process will copy the repo to your designated folder you are currently in.
 
-Once complete move into the repo that was created: cd ReactRedux-Lakers. Once in the folder, you need to install the dependencies: npm install
+Once complete move into the repo that was created: cd MERN-Lakers. Once in the folder, you need to install the dependencies: npm install
 
 If any dependencies need updating, you can update using: npm audit fix
 

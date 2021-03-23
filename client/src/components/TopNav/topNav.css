@@ -1,0 +1,34 @@
+.tTopNav {
+  width: 100%;
+  height: 40px;
+  position: absolute;
+  top: 0%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  /* background: rgb(85, 38, 131); */
+  background: black;
+  border-bottom: 5px solid white;
+  font-family: 'Lobster Two', cursive;
+  font-size: 22px;
+  font-weight: bold;
+}
+.tLinkMarg {
+  margin: 0 40px;
+}
+
+@media(max-width: 650px){
+  .tLinkMarg {
+    margin: 0 10px;
+  }
+}
+
+@media(max-width: 400px){
+  .tTopNav{
+    font-size: 18px;
+  }
+  .tLinkMarg {
+    margin: 0 8px;
+  }
+}

@@ -1,0 +1,29 @@
+.bannerBack {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.banner {
+  background: url("../../assets/images/LakersLogo.png") no-repeat;
+  background-size: 325px 250px;
+  width: 325px;
+  height: 250px;
+  margin: 0 auto;
+}
+
+
+@media(max-width: 950px){
+  .banner{
+    background-size: 275px 225px;
+    width: 275px;
+    height: 225px;
+  }
+}
+
+@media(max-width: 450px){
+  .banner{
+    background-size: 220px 175px;
+    width: 220px;
+    height: 175px;
+  }
+}

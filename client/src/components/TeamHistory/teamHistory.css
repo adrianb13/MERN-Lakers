@@ -1,0 +1,75 @@
+.tHardwood{
+  height: 100%;
+  min-height: 100vh;
+  background: url("../../assets/images/Hardwood.png");
+  background-size: 50% 100%;
+  background-repeat: repeat;
+}
+.tBackGold {
+  height: 100%;
+  min-height: 100vh;
+  background-color: rgba(252, 185, 39, 0.8);
+  background-size: cover;
+}
+.tBannerBox{
+  height: 85%;
+  height: 700px;
+  width: 80%;
+  background: radial-gradient(rgba(85, 38, 131, 0.8)50%, rgba(0, 0, 0, 0.8));
+  border: 5px solid white;
+  border-radius: 0 0 50% 50%;
+  -webkit-border-radius: 0 0 50% 50%;
+  -moz-border-radius: 0 0 50% 50%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.tBanner{
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+.tTextArea{
+  margin-top: -650px;
+  padding-bottom: 10px;
+}
+.tSection{
+  width: 100%;
+  text-align: justify;
+  margin-bottom: 20px;
+} 
+.tTextBox{
+  width: 70%;
+  position: relative;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  font-size: 20px;
+  color: white;
+  margin: 0 auto;
+  padding: 10px 20px;
+  z-index: 5;
+}
+.tHeader{
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  color: rgba(252, 185, 39, 1);
+  font-size: 40px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: rgba(85, 38, 131, 1);
+}
+.tMinorHeader{
+  text-align: center;
+  font-weight: bold;
+}
+
+@media(max-width: 1200px){
+  .tBannerBox{
+    width: 85%;
+  }
+}
+
+@media(max-width: 750px){
+  .tBannerBox{
+    width: 90%;
+  }
+}

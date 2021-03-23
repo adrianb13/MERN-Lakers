@@ -1,0 +1,84 @@
+.sBack{
+  height: 100%;
+  min-height: 100vh;
+  background: url("../../assets/images/Clipboard.png") no-repeat;
+  background-size: 100% 100%;
+  background-color: rgb(85, 38, 131);
+}
+.sName{
+  color:  rgb(85, 38, 131);
+  font-size: 40px;
+  font-weight: bold;
+  text-decoration: underline;
+  padding: 10px 0 0;
+}
+.sJersey{
+  color:  rgb(252, 185, 39);
+  font-size: 35px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.sPic{
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  margin: 0 auto 10px;
+}
+.sTopAdj{
+  padding-top: 60px;
+}
+.sTable{
+  width: 80%;
+  height: 85vh;
+  min-height: 85%;
+  background-color: whitesmoke;
+  text-align: center;
+  margin: 0 auto;
+}
+.sTable table {
+  width: 90%;
+  margin: 10px auto 50px;
+  border-collapse: collapse;
+}
+.sTable tbody{
+  border: 2px solid rgb(85, 38, 131);
+}
+.sTable td {
+  border-top: 2px solid rgb(85, 38, 131);
+  border-bottom: 2px solid rgb(85, 38, 131);
+  font-weight: bold;
+}
+.sHeader{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+@media(max-width: 850px){
+  .sTable{
+    overflow-y: auto;
+  }
+}
+
+@media(max-width: 600px){
+  .sTable{
+    width: 95%;
+    overflow: auto;
+  }
+  .sTable table {
+    min-width: 500px;
+  }
+}
+
+@media(max-width: 550px){
+  .sBack{
+    background: url("../../assets/images/Clipboard2.png") no-repeat;
+    background-size: 100% 100%;
+    background-color: rgb(85, 38, 131);
+  }
+  .sTable{
+    margin: 0 auto;
+    padding: 0 5px;
+    overflow-x: auto;
+  }  
+}

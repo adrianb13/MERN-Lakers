@@ -1,0 +1,137 @@
+.tBack{
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  background-color: black;
+  background-size: cover;
+  padding-top: 1px;
+}
+.tHead{
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  color: rgba(252, 185, 39, 1);
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: rgba(85, 38, 131, 1);
+  margin-top: 70px;
+}
+.tTriviaBox{
+  width: 60%;
+  background: rgb(252, 185, 39);
+  border: 5px solid rgb(85, 38, 131);
+  border-radius: 10px;
+  color: rgb(85, 38, 131);
+  font-size: 35px;
+  margin: 30px auto 0;
+  padding: 20px;
+}
+.tAnswerBox {
+  margin-top: 20px;
+}
+.tRadio input {
+  appearance: none;
+  height: 25px;
+  width: 25px;
+  background-color: rgb(252, 185, 39);
+  border: 2px solid black;
+  border-radius: 50%;
+  margin-right: 20px;  
+  transition: 1s;
+  outline: none;
+}
+.tRadio input:checked {
+  color: rgb(85, 38, 131);
+  background: rgb(252, 185, 39);
+  border: 10px solid rgb(85, 38, 131);
+  outline: none;
+}
+.tSubmitBox {
+  margin-top: 35px;
+}
+.tSubmitBtn {
+  cursor: pointer;
+  width: 150px;
+  border: 2px solid rgb(85, 38, 131);
+  border-radius: 20px;
+  box-shadow: 1px 1px 4px rgb(85, 38, 131) inset,
+  -1px 1px 4px rgb(85, 38, 131) inset,
+  1px -1px 4px rgb(85, 38, 131) inset,
+  -1px -1px 4px rgb(85, 38, 131) inset;
+  text-align: center;
+  font-size: 35px;
+  margin: 0 auto;
+  padding-bottom: 5px;
+  transition: 0.5s;
+}
+.tSubmitBtn:hover{
+  background: rgb(85, 38, 131);
+  color: rgb(252, 185, 39);
+}
+.tCorrect {
+  margin-top: 30px;
+}
+.tWinner {
+  text-align: center;
+  font-size: 80px;
+}
+.tBrackets{
+  width: 60%;
+  color: rgb(252, 185, 39);
+  text-align: center;
+  font-size: 30px;
+  margin: 20px auto;
+}
+.tStandings{
+  height: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 100px;
+  margin: 30px auto;
+}
+.tTrophy{
+  height: 150px;
+  width: 90px;
+  background: url("../../assets/images/Trophy.png") no-repeat;
+  background-size: 90px 150px;
+  margin: 0 auto;
+}
+
+@media(max-width: 1100px){
+  .tTriviaBox{
+    width: 80%;
+    font-size: 30px;
+  }
+  .tStandings{
+    font-size: 50px;
+  }
+  .tBrackets{
+    width: 70%;
+  }
+  .tTrophy{
+    height: 100px;
+    width: 60px;
+    background: url("../../assets/images/Trophy.png") no-repeat;
+    background-size: 60px 100px;
+    margin: 0 auto;
+  }
+}
+
+@media(max-width: 450px){
+  .tTriviaBox{
+    font-size: 20px;
+  }
+  .tSubmitBtn{
+    width: 100px;
+    font-size: 20px;
+  }
+  .tBrackets{
+    font-size: 20px;
+  }
+  .tStandings{
+    font-size: 30px;
+  }
+}

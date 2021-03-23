@@ -1,0 +1,41 @@
+.sSideNav {
+  width: 100px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgb(85, 38, 131);
+  font-family: 'Lobster Two', cursive;
+  font-size: 22px;
+  font-weight: bold;
+}
+.sLinkMarg {
+  margin: 50px 0;
+}
+
+@media(max-width: 1070px){
+  .sSideNav{
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+  }
+  .sLinkMarg {
+    margin: 0 20px;
+  }
+}
+
+@media(max-width: 560px){
+  .sSideNav{
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    font-size: 17px;
+  }
+}
+
+@media(max-width: 450px){
+  .sLinkMarg {
+    margin: 0 10px;
+  }
+}

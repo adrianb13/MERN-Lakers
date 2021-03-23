@@ -1,0 +1,41 @@
+.stBack{
+  height: 100%;
+}
+.sStarBox{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 300px;
+  width: 300px;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sStar{
+  position: fixed;
+  width: 30px;
+  height: 30px;
+  background: url("../../assets/images/Stars.png") no-repeat;
+  background-size: 100% 100%;
+}
+.s0{
+  transform: translateY(200px);
+}
+
+@media(max-width: 750px){
+  .sStarBox {
+    width: 200px;
+    height: 200px;
+  }
+  .sStar {
+    width: 25px;
+    height: 25px;
+  }
+}
+@media(max-width: 450px){
+  .sStar {
+    width: 20px;
+    height: 20px;
+  }
+}

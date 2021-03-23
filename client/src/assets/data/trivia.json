@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "tf": false,
+    "question": "When was the first Lakers \"three-peat\"?",
+    "a": "1950-1952",
+    "b": "1951-1953",
+    "c": "1952-1954",
+    "d": "1953-1955",
+    "answer": "c"
+  },
+  {
+    "id": 2,
+    "tf": false,
+    "question": "Who was the first Laker inducted into the NBA Hall of Fame?",
+    "a": "Clyde Lovellette",
+    "b": "Slater Martin",
+    "c": "George Mikan",
+    "d": "Jim Pollard",
+    "answer": "c"
+  },
+  {
+    "id": 3,
+    "tf": false,
+    "question": "What year was the first Lakers BAA/NBA Championship?",
+    "a": "1949",
+    "b": "1950",
+    "c": "1951",
+    "d": "1952",
+    "answer": "a"
+  },
+  {
+    "id": 4,
+    "tf": false,
+    "question": "Who did the Lakers beat for their first BAA/NBA Championship?",
+    "a": "Fort Wayne Pistons",
+    "b": "Indianoplis Olympians",
+    "c": "Rochester Royals",
+    "d": "Washington Capitols",
+    "answer": "d"
+  },
+  {
+    "id": 5,
+    "tf": false,
+    "question": "What year is considered the start of their rivalry with the Celtics?",
+    "a": "1958",
+    "b": "1959",
+    "c": "1960",
+    "d": "1961",
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "tf": false,
+    "question": "What Year did the Lakers move to Los Angeles?",
+    "a": "1960",
+    "b": "1961",
+    "c": "1962",
+    "d": "1963",
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "tf": false,
+    "question": "Who did the Lakers Draft in 1960?",
+    "a": "Elgin Baylor",
+    "b": "Clyde Lovellette",
+    "c": "Frank Selvy",
+    "d": "Jerry West",
+    "answer": "d"
+  },
+  {
+    "id": 8,
+    "tf": false,
+    "question": "Who is nicknamed \"Mr. Clutch\"?",
+    "a": "Elgin Baylor",
+    "b": "Kobe Bryant",
+    "c": "Wilt Chamberlain",
+    "d": "Jerry West",
+    "answer": "d"
+  },
+  {
+    "id": 9,
+    "tf": false,
+    "question": "What was name of the first Los Angeles arena the Lakers called home?",
+    "a": "The Forum",
+    "b": "Los Angeles Memorial Sport Arena",
+    "c": "The Pond",
+    "d": "Staples Center",
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "tf": false,
+    "question": "How many Championships did the Lakers win in the 1960s?",
+    "a": "0",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "answer": "a"
+  },
+  {
+    "id": 11,
+    "tf": false,
+    "question": "What team did Wilt Chamberlain leave to join the Lakers?",
+    "a": "Milwaukee Bucks",
+    "b": "Baltimore Bullets",
+    "c": "Boston Celtics",
+    "d": "Philadelphia 76ers",
+    "answer": "d"
+  },
+  {
+    "id": 12,
+    "tf": false,
+    "question": "What is the longer Win Streak by the Lakers (and NBA)?",
+    "a": "31",
+    "b": "32",
+    "c": "33",
+    "d": "34",
+    "answer": "c"
+  },
+  {
+    "id": 13,
+    "tf": false,
+    "question": "Who holds the highest field-goal percentage for a season?",
+    "a": "Kareem Abdul-Jabbar",
+    "b": "Elgin Baylor",
+    "c": "Wilt Chamberlain",
+    "d": "Shaquille O'Neal",
+    "answer": "c"
+  },
+  {
+    "id": 14,
+    "tf": false,
+    "question": "What team did Kareem Abdul-Jabbar leave to join the Lakers?",
+    "a": "Milwaukee Bucks",
+    "b": "New York Knicks",
+    "c": "New York Nets",
+    "d": "Golden State Warriors",
+    "answer": "a"
+  },
+  {
+    "id": 15,
+    "tf": false,
+    "question": "How many Championships did the Lakers win in the 1970s?",
+    "a": "0",
+    "b": "1",
+    "c": "2",
+    "d": "3",
+    "answer": "b"
+  },
+  {
+    "id": 16,
+    "tf": false,
+    "question": "Who did the Lakers acquire/draft in 1979?",
+    "a": "Kareem Abdul-Jabbar",
+    "b": "Magic Johnson",
+    "c": "Kurt Rambis",
+    "d": "James Worthy",
+    "answer": "b"
+  },
+  {
+    "id": 17,
+    "tf": false,
+    "question": "How many Championships did the Lakers win in the 1980s?",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "6",
+    "answer": "c"
+  },
+  {
+    "id": 18,
+    "tf": false,
+    "question": "Who did the Lakers acquire/draft in 1982?",
+    "a": "A.C. Green",
+    "b": "Magic Johnson",
+    "c": "Kurt Rambis",
+    "d": "James Worthy",
+    "answer": "d"
+  },
+  {
+    "id": 19,
+    "tf": false,
+    "question": "What years did the \"Showtime\" Lakers go Back-to-Back?",
+    "a": "1980-81",
+    "b": "1982-83",
+    "c": "1985-86",
+    "d": "1987-88",
+    "answer": "d"
+  },
+  {
+    "id": 20,
+    "tf": false,
+    "question": "What year did Magic Johnson win both the NBA MVP and Finals MVP?",
+    "a": "1980",
+    "b": "1982",
+    "c": "1987",
+    "d": "1988",
+    "answer": "c"
+  },
+  {
+    "id": 21,
+    "tf": false,
+    "question": "How old was Kobe Bryant when he was acquired by the Lakers?",
+    "a": "16",
+    "b": "17",
+    "c": "18",
+    "d": "19",
+    "answer": "b"
+  },
+  {
+    "id": 22,
+    "tf": false,
+    "question": "Where did Shaquille O'Neal play prior to joining the Lakers?",
+    "a": "Chicago Bulls",
+    "b": "Boston Celtics",
+    "c": "Orlando Magic",
+    "d": "Phoenix Suns",
+    "answer": "c"
+  },
+  {
+    "id": 23,
+    "tf": false,
+    "question": "Who was not acquired/drafted in 1996 by the Lakers?",
+    "a": "Kobe Bryant",
+    "b": "Cedric Ceballos",
+    "c": "Derek Fisher",
+    "d": "Shaquille O'Neal",
+    "answer": "b"
+  },
+  {
+    "id": 24,
+    "tf": false,
+    "question": "What was the Lakers best start to a season?",
+    "a": "10-0",
+    "b": "11-0",
+    "c": "12-0",
+    "d": "13-0",
+    "answer": "b"
+  },
+  {
+    "id": 25,
+    "tf": false,
+    "question": "What team did the Shaq & Kobe led Lakers defeat to start their \"Three-Peat\"?",
+    "a": "Chicago Bulls",
+    "b": "Boston Celtics",
+    "c": "Orlando Magic",
+    "d": "Indiana Pacers",
+    "answer": "d"
+  },
+  {
+    "id": 26,
+    "tf": false,
+    "question": "When was the second Lakers \"three-peat\"?",
+    "a": "2000-02",
+    "b": "2001-03",
+    "c": "2002-04",
+    "d": "2003-05",
+    "answer": "a"
+  },
+  {
+    "id": 27,
+    "tf": false,
+    "question": "Which team did the Lakers NOT face in their \"three-peat\"?",
+    "a": "Philadelphia 76ers",
+    "b": "New Jersey Nets",
+    "c": "Indiana Pacers",
+    "d": "Detroit Pistons",
+    "answer": "b"
+  },
+  {
+    "id": 28,
+    "tf": false,
+    "question": "What is the Lakers' best single post season record?",
+    "a": "14-2",
+    "b": "15-1",
+    "c": "16-0",
+    "d": "16-1",
+    "answer": "b"
+  },
+  {
+    "id": 29,
+    "tf": false,
+    "question": "How many Finals MVPs did Shaquille O'Neal win with the Lakers?",
+    "a": "3",
+    "b": "2",
+    "c": "1",
+    "d": "0",
+    "answer": "a"
+  },
+  {
+    "id": 30,
+    "tf": false,
+    "question": "When was the first time Kobe Bryant was named Finals MVP?",
+    "a": "2002",
+    "b": "2008",
+    "c": "2009",
+    "d": "2010",
+    "answer": "c"
+  },
+  {
+    "id": 31,
+    "tf": false,
+    "question": "Prior to 2020, who the the Lakers beat for their latest Championship?",
+    "a": "Philadelphia 76ers",
+    "b": "Boston Celtics",
+    "c": "Orlando Magic",
+    "d": "Indiana Pacers",
+    "answer": "b"
+  },
+  {
+    "id": 32,
+    "tf": false,
+    "question": "What year was Kobe awarded the NBA MVP?",
+    "a": "2008",
+    "b": "2009",
+    "c": "2010",
+    "d": "2011",
+    "answer": "a"
+  },
+  {
+    "id": 33,
+    "tf": false,
+    "question": "When was the first Lakers \"three-peat\"?",
+    "a": "1950-1952",
+    "b": "1951-1953",
+    "c": "1952-1954",
+    "d": "1953-1955",
+    "answer": "c"
+  },
+  {
+    "id": 34,
+    "tf": false,
+    "question": "What year did the Lakers become the first franchise to win 3000 regular season games?",
+    "a": "2007",
+    "b": "2008",
+    "c": "2009",
+    "d": "2010",
+    "answer": "d"
+  },
+  {
+    "id": 35,
+    "tf": false,
+    "question": "When did Phil Jackson retire as Head Coach of the Lakers?",
+    "a": "2010",
+    "b": "2011",
+    "c": "2012",
+    "d": "2013",
+    "answer": "b"
+  },
+  {
+    "id": 36,
+    "tf": false,
+    "question": "What year did the Lakers acquire Lebron James?",
+    "a": "2016",
+    "b": "2017",
+    "c": "2018",
+    "d": "2019",
+    "answer": "c"
+  },
+  {
+    "id": 37,
+    "tf": false,
+    "question": "Who was the Lakers Head Coach the year Lebron James was signed by the Lakers?",
+    "a": "Mike D'Antoni",
+    "b": "Byron Scott",
+    "c": "Mike Vogel",
+    "d": "Luke Walton",
+    "answer": "d"
+  },
+  {
+    "id": 38,
+    "tf": false,
+    "question": "Who did the Lakers NOT face during their 2020 Championship run?",
+    "a": "LA Clippers",
+    "b": "Denver Nuggets",
+    "c": "Houston Rockets",
+    "d": "Portland Trail Blazers",
+    "answer": "a"
+  },
+  {
+    "id": 39,
+    "tf": false,
+    "question": "What is the preferred playing position of Anthony Davis?",
+    "a": "Center",
+    "b": "Point Guard",
+    "c": "Power Forward",
+    "d": "Small Forward",
+    "answer": "c"
+  },
+  {
+    "id": 40,
+    "tf": false,
+    "question": "As of the end of the 2020 season, how many Championships do the Lakers have?",
+    "a": "14",
+    "b": "15",
+    "c": "16",
+    "d": "17",
+    "answer": "d"
+  }
+]

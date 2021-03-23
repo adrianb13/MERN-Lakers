@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Kobe Bryant",
+    "jersey": "8 24"
+  },
+  {
+    "id": 2,
+    "name": "Wilt Chamberlain",
+    "jersey": "13"
+  },
+  {
+    "id": 3,
+    "name": "Elgin Baylor",
+    "jersey": "22"
+  },
+  {
+    "id": 4,
+    "name": "Gail Goodrich",
+    "jersey": "25"
+  },
+  {
+    "id": 5,
+    "name": "Magic Johnson",
+    "jersey": "32"
+  },
+  {
+    "id": 6,
+    "name": "Kareem Abdul-Jabbar",
+    "jersey": "33"
+  },
+  {
+    "id": 7,
+    "name": "Shaquille O'Neal",
+    "jersey": "34"
+  },
+  {
+    "id": 8,
+    "name": "James Worthy",
+    "jersey": "42"
+  },
+  {
+    "id": 9,
+    "name": "Jerry West",
+    "jersey": "44"
+  },
+  {
+    "id": 10,
+    "name": "Jamal Wilkes",
+    "jersey": "52"
+  }
+]

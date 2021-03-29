@@ -39,10 +39,25 @@ class Info extends React.Component{
     };
   };
 
+  //Sort By Date
+  sortData = (a,b) => {
+    let dateA = parseInt((new Date(a.date).getTime() / 1000).toFixed(0));
+    let dateB = parseInt((new Date(b.date).getTime() / 1000).toFixed(0));
+
+    let comparison = 0;
+    if( dateA > dateB){
+      comparison = 1;
+    } else if (dateA < dateB){
+      comparison = -1
+    }
+    return comparison;
+  }
+
   //Most Recently Played Game
   latest = () => {   
     if(this.props.schedule.length !== 0){
-      let recent = this.props.schedule.findIndex(games => games.score === "N/A");
+      let schedule = this.props.schedule.sort(this.sortData)
+      let recent = schedule.findIndex(games => games.score === "N/A");
       if(recent > 0){
         this.setState({
           lastGame: this.props.schedule[(recent-1)],

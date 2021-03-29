@@ -41,6 +41,7 @@ class Info extends React.Component{
 
   //Sort By Date
   sortData = (a,b) => {
+    //Converts date MM/DD/YYYY to Unix timestamp
     let dateA = parseInt((new Date(a.date).getTime() / 1000).toFixed(0));
     let dateB = parseInt((new Date(b.date).getTime() / 1000).toFixed(0));
 

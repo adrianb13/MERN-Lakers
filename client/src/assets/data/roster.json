@@ -60,6 +60,18 @@
     "image": "../images/players/Davis.png"
   },
   {
+    "id": 25,
+    "name": "Andre Drummond",
+    "jersey": 2,
+    "position": "C",
+    "age": 27,
+    "height": "6' 10\"",
+    "weight": "279 lbs",
+    "college": "UConn",
+    "contract": null,
+    "image": "../images/players/Drummond.png"
+  },
+  {
     "id": 8,
     "name": "Jared Dudley",
     "jersey": 10,

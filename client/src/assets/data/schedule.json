@@ -388,24 +388,24 @@
     "home": true,
     "opponent": "Philadelphia 76ers",
     "game": "7:00 PM PT",
-    "score": "N/A",
-    "win": null
+    "score": "101-109",
+    "win": false
   },
   { 
     "date": "03/26/2021",
     "home": true,
     "opponent": "Cleveland Cavaliers",
     "game": "7:30 PM PT",
-    "score": "N/A",
-    "win": null
+    "score": "100-86",
+    "win": true
   },
   { 
     "date": "03/28/2021",
     "home": true,
     "opponent": "Orlando Magic",
     "game": "7:00 PM PT",
-    "score": "N/A",
-    "win": null
+    "score": "96-93",
+    "win": true
   },
   { 
     "date": "03/31/2021",

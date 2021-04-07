@@ -168,6 +168,18 @@
     "image": "../images/players/McKinnie.png"
   },
   {
+    "id": 26,
+    "name": "Ben McLemore",
+    "jersey": 7,
+    "position": "SG",
+    "age": 28,
+    "height": "6' 3\"",
+    "weight": "195 lbs",
+    "college": "Kansas",
+    "contract": "",
+    "image": "../images/players/McLemore.png"
+  },
+  {
     "id": 15,
     "name": "Markieff Morris",
     "jersey": 88,

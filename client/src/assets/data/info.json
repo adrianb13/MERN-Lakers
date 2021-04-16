@@ -481,8 +481,8 @@
         "home": true,
         "opponent": "Boston Celtics",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "113-121",
+        "win": false
       },
       { 
         "date": "04/17/2021",

@@ -21,7 +21,7 @@ module.exports = {
   },
   deleteGame: (req, res) => {
     db.Schedule
-      .remove({ _id: req.params.id })
+      .deleteOne({ _id: req.params.id })
       .then(dbModel => res.json(dbModel))
       .cath(err => res.status(422).json(err));
   }

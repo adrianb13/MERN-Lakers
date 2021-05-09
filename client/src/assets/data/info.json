@@ -561,16 +561,16 @@
         "home": false,
         "opponent": "Los Angeles Clippers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "94-118",
+        "win": false
       },
       { 
         "date": "05/07/2021",
         "home": false,
         "opponent": "Portland Trailblazers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "101-106",
+        "win": false
       },
       { 
         "date": "05/09/2021",

@@ -593,6 +593,22 @@
         "home": true,
         "opponent": "Houston Rockets",
         "game": "7:30 PM PT",
+        "score": "124-122",
+        "win": true
+      },
+      { 
+        "date": "05/15/2021",
+        "home": false,
+        "opponent": "Indianapolis Pacers",
+        "game": "7:30 PM PT",
+        "score": "122-115",
+        "win": true
+      },
+      { 
+        "date": "05/16/2021",
+        "home": false,
+        "opponent": "New Orleans Pelicans",
+        "game": "6:00 PM PT",
         "score": "N/A",
         "win": null
       }

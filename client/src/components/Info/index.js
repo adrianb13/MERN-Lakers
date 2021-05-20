@@ -100,7 +100,7 @@ class Info extends React.Component{
         } else {
           this.state.playedGames.push(game);
           //Wins & Losses
-          if(!game.score.includes("Preseason")){
+          if(!game.score.includes("Preseason") && !game.score.includes("Playoff")){
             if(game.win === true){
               rwin++
               this.setState({

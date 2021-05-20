@@ -604,11 +604,27 @@
         "score": "122-115",
         "win": true
       },
-      { 
+      {
         "date": "05/16/2021",
         "home": false,
         "opponent": "New Orleans Pelicans",
         "game": "6:00 PM PT",
+        "score": "110-98",
+        "win": true
+      },
+      {
+        "date": "05/19/2021",
+        "home": true,
+        "opponent": "Golden State Warriors",
+        "game": "7:00 PM PT",
+        "score": "103-100 (Playoff Play-In)",
+        "win": true
+      },
+      {
+        "date": "05/23/2021",
+        "home": false,
+        "opponent": "Phoenix Suns",
+        "game": "7:00 PM PT - Game 1",
         "score": "N/A",
         "win": null
       }

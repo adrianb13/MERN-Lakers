@@ -24,7 +24,9 @@ class Info extends React.Component{
     recordloss: 0,
     playoffwin: 0, 
     playoffloss: 0,
-    schedule: true
+    schedule: true,
+    seriesWin: false,
+    playoffs: false
   };
 
   componentDidMount = () => {
@@ -78,23 +80,38 @@ class Info extends React.Component{
   //Determines which games are upcoming or already played
   next = () => {
     if(this.props.schedule.length !== 0){
-      //let pwin = 0;
-      //let ploss = 0;
+      let pwin = 0;
+      let ploss = 0;
       let rwin = 0;
       let rloss = 0;
       this.props.schedule.map(game => {
         //Playoff Series Calculation
-        /* if(game.win === true){
-          pwin++
+        if(game.score.includes("Playoff") && !game.score.includes("Play-In")){
           this.setState({
-            playoffwin: pwin
+            playoffs: true
           })
-        } else if (game.win === false){
-          ploss++
-          this.setState({
-            playoffloss: ploss
-          })
-        } */
+          if(game.score.includes("Game 1")){
+            pwin = 0;
+            ploss = 0;
+            if(game.win === true){
+              pwin++
+              this.setState({
+                playoffwin: pwin
+              })
+              if(pwin === 4){
+                this.setState({
+                  seriesWin: true
+                })
+              }
+            } else if (game.win === false){
+              ploss++
+              this.setState({
+                playoffloss: ploss
+              })
+            }
+          }
+          
+        }
         if(game.score === "N/A" ){
           this.state.upcomingGames.push(game);
         } else {
@@ -187,28 +204,31 @@ class Info extends React.Component{
                           </div>
                         ) : (null)}
                         
-                        {/* <div style={{color: "rgb(252, 185, 39)"}}>
-                          {this.state.win === 4 ? (
-                            <Link to="/champs">
-                              <div className="iChamps">Lakers Win The Series</div>
-                            </Link>
+                        {this.state.playoffs ? (
+                          <div style={{color: "rgb(252, 185, 39)"}}>
+                            {this.state.seriesWin ? (
+                              <Link to="/champs">
+                                <div className="iChamps">Lakers Win The Series</div>
+                              </Link>
 
-                          ) : (
-                            <div>
-                              {this.state.playoffwin > this.state.playoffloss ? (
-                                <div>Lakers Lead Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
-                              ) : ( 
-                                <div>
-                                  {this.state.playoffwin < this.state.playoffloss ? (
-                                    <div>Lakers Losing the Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
-                                  ) : (
-                                    <div>Lakers Tied Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
-                                  )}
-                                </div>
-                              )}
-                            </div>
-                          )}                  
-                        </div> */}
+                            ) : (
+                              <div>
+                                {this.state.playoffwin > this.state.playoffloss ? (
+                                  <div>Lakers Lead Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
+                                ) : ( 
+                                  <div>
+                                    {this.state.playoffwin < this.state.playoffloss ? (
+                                      <div>Lakers Losing the Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
+                                    ) : (
+                                      <div>Lakers Tied Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
+                                    )}
+                                  </div>
+                                )}
+                              </div>
+                            )}
+                          </div>
+                        ) : (null)}
+                        
                       </div>
                     </div>
                   </div>

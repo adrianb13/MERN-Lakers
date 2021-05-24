@@ -86,7 +86,7 @@ class Info extends React.Component{
       let rloss = 0;
       this.props.schedule.map(game => {
         //Playoff Series Calculation
-        if(game.score.includes("Playoff") && !game.score.includes("Play-In")){
+        if(game.score.includes("Playoffs") && !game.score.includes("Play-In")){
           this.setState({
             playoffs: true
           })
@@ -116,7 +116,7 @@ class Info extends React.Component{
         } else {
           this.state.playedGames.push(game);
           //Wins & Losses
-          if(!game.score.includes("Preseason") && !game.score.includes("Playoff")){
+          if(!game.score.includes("Preseason") && !game.score.includes("Playoffs")){
             if(game.win === true){
               rwin++
               this.setState({

@@ -93,24 +93,23 @@ class Info extends React.Component{
           if(game.score.includes("Game 1")){
             pwin = 0;
             ploss = 0;
-            if(game.win === true){
-              pwin++
+          }
+          if(game.win === true){
+            pwin++
+            this.setState({
+              playoffwin: pwin
+            })
+            if(pwin === 4){
               this.setState({
-                playoffwin: pwin
-              })
-              if(pwin === 4){
-                this.setState({
-                  seriesWin: true
-                })
-              }
-            } else if (game.win === false){
-              ploss++
-              this.setState({
-                playoffloss: ploss
+                seriesWin: true
               })
             }
+          } else if (game.win === false){
+            ploss++
+            this.setState({
+              playoffloss: ploss
+            })
           }
-          
         }
         if(game.score === "N/A" ){
           this.state.upcomingGames.push(game);

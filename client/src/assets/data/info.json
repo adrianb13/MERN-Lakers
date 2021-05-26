@@ -651,6 +651,14 @@
         "game": "12:30 PM PT - Playoffs Game 4",
         "score": "N/A",
         "win": null
+      },
+      {
+        "date": "06/01/2021",
+        "home": false,
+        "opponent": "Phoenix Suns",
+        "game": "TBD - Playoffs Game 5",
+        "score": "N/A",
+        "win": null
       }
     ]
   }

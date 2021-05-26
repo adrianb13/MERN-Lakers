@@ -148,7 +148,8 @@
 .iGame {
   width: 31%;
   min-width: 400px;
-  height: 145px;
+  min-height: 145px;
+  max-height: 180px;
   display: flex;
   flex-direction: column;
   justify-content: center;

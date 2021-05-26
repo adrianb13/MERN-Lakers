@@ -99,17 +99,17 @@
     "image": "../images/players/Caldwell-Pope.png",
     "jersey": 1,
     "game": {
-      "PTS": 10,
-      "MIN": 33,
-      "FGP": 60.0,
-      "P3P": 50.0,
-      "FTP": 100.0,
-      "REB": 3,
-      "AST": 2,
-      "BLK": 1,
-      "STL": 3,
-      "PF": 1,
-      "TO": 1
+      "PTS": 0,
+      "MIN": 31,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 4,
+      "AST": 1,
+      "BLK": 0,
+      "STL": 1,
+      "PF": 4,
+      "TO": 0
     },
     "season": {
       "GP": 67,

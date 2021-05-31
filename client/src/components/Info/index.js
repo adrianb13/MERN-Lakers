@@ -110,6 +110,7 @@ class Info extends React.Component{
               playoffloss: ploss
             })
           }
+          console.log( pwin, ploss)
         }
         if(game.score === "N/A" ){
           this.state.upcomingGames.push(game);
@@ -219,7 +220,7 @@ class Info extends React.Component{
                                     {this.state.playoffwin < this.state.playoffloss ? (
                                       <div>Lakers Losing the Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
                                     ) : (
-                                      <div>Lakers Tied Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
+                                      <div>Series Tied ({this.state.playoffwin} - {this.state.playoffloss})</div>
                                     )}
                                   </div>
                                 )}

@@ -8,7 +8,7 @@
     "height": "6' 8\"",
     "weight": "215 lbs",
     "college": "UCLA",
-    "contract": "",
+    "contract": "$2,642,000",
     "image": "../images/players/Ariza.png"
   },
   {
@@ -20,7 +20,7 @@
     "height": "6' 4\"",
     "weight": "195 lbs",
     "college": "Old Dominion",
-    "contract": " ",
+    "contract": "$2,642,000",
     "image": "../images/players/Bazemore.png"
   },
   {
@@ -32,20 +32,8 @@
     "height": "6' 10\"",
     "weight": "237 lbs",
     "college": "Kentucky",
-    "contract": "$27,093,018",
+    "contract": "$35,361,360",
     "image": "../images/players/Davis.png"
-  },
-  {
-    "id": 22,
-    "name": "Marc Gasol",
-    "jersey": 14,
-    "position": "C",
-    "age": 35,
-    "height": "6' 11\"",
-    "weight": "255 lbs",
-    "college": "Spain",
-    "contract": "$2,565,000",
-    "image": "../images/players/Gasol.png"
   },
   {
     "id": 30,
@@ -56,8 +44,20 @@
     "height": "6' 4\"",
     "weight": "207 lbs",
     "college": "North Carolina",
-    "contract": " ",
+    "contract": "$2,642,000",
     "image": "../images/players/Ellington.png"
+  },
+  {
+    "id": 22,
+    "name": "Marc Gasol",
+    "jersey": 14,
+    "position": "C",
+    "age": 35,
+    "height": "6' 11\"",
+    "weight": "255 lbs",
+    "college": "Spain",
+    "contract": "$2,642,000",
+    "image": "../images/players/Gasol.png"
   },
   {
     "id": 10,
@@ -80,7 +80,7 @@
     "height": "6' 10\"",
     "weight": "265 lbs",
     "college": " ",
-    "contract": "$1,650,564",
+    "contract": "$2,642,000",
     "image": "../images/players/Howard.png"
   },
   {
@@ -92,7 +92,7 @@
     "height": "6' 9\"",
     "weight": "250 lbs",
     "college": " ",
-    "contract": "$37,436,858",
+    "contract": "$41,180,544",
     "image": "../images/players/James.png"
   },
   {
@@ -116,7 +116,7 @@
     "height": "6' 7\"",
     "weight": "215 lbs",
     "college": "Green Bay",
-    "contract": "$1,800,000",
+    "contract": "$1,900,000",
     "image": "../images/players/McKinnie.png"
   },
   {
@@ -128,7 +128,7 @@
     "height": "6' 8\"",
     "weight": "245 lbs",
     "college": "Kansas",
-    "contract": "$2,565,000",
+    "contract": "$2,642,000",
     "image": "../images/players/Morris.png"
   },
   {
@@ -152,7 +152,7 @@
     "height": "6' 3\"",
     "weight": "200 lbs",
     "college": "UCLA",
-    "contract": "",
+    "contract": "$44,200,000",
     "image": "../images/players/Westbrook.png"
   }
 ]

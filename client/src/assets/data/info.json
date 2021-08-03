@@ -657,16 +657,16 @@
         "home": false,
         "opponent": "Phoenix Suns",
         "game": "7:00 PM PT - Playoffs Game 5",
-        "score": "N/A",
-        "win": null
+        "score": "85-115 - Playoffs Game 5",
+        "win": false
       },
       {
         "date": "06/03/2021",
         "home": true,
         "opponent": "Phoenix Suns",
-        "game": "TBD - Playoffs Game 6",
-        "score": "N/A",
-        "win": null
+        "game": "7:00 PM PT - Playoffs Game 6",
+        "score": "100-113 - Playoffs Game 6",
+        "win": false
       }
     ]
   }

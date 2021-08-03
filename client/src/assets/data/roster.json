@@ -1,51 +1,27 @@
 [
   {
-    "id": 1,
-    "name": "Kostas Antetokounmpo",
-    "jersey": 37,
-    "position": "PF",
-    "age": 22,
-    "height": "6' 10\"",
-    "weight": "200 lbs",
-    "college": "Dayton",
-    "contract": "$1,474,611",
-    "image": "../images/players/Antetokounmpo.png"
-  },
-  {
-    "id": 3,
-    "name": "Devontae Cacok",
-    "jersey": 12,
-    "position": "C",
-    "age": 23,
+    "id": 28,
+    "name": "Trevor Ariza",
+    "jersey": 3,
+    "position": "SF",
+    "age": 36,
     "height": "6' 8\"",
-    "weight": "240 lbs",
-    "college": "North Carolina-Wilimington",
+    "weight": "215 lbs",
+    "college": "UCLA",
+    "contract": "",
+    "image": "../images/players/Ariza.png"
+  },
+  {
+    "id": 29,
+    "name": "Kent Bazemore",
+    "jersey": 0,
+    "position": "SF",
+    "age": 32,
+    "height": "6' 4\"",
+    "weight": "195 lbs",
+    "college": "Old Dominion",
     "contract": " ",
-    "image": "../images/players/Cacok.png"
-  },
-  {
-    "id": 4,
-    "name": "Kentavious Caldwell-Pope",
-    "jersey": 1,
-    "position": "SG",
-    "age": 23,
-    "height": "6' 5\"",
-    "weight": "204 lbs",
-    "college": "Georgia",
-    "contract": "$13,300,000",
-    "image": "../images/players/Caldwell-Pope.png"
-  },
-  {
-    "id": 5,
-    "name": "Alex Caruso",
-    "jersey": 4,
-    "position": "SG",
-    "age": 26,
-    "height": "6' 5\"",
-    "weight": "186 lbs",
-    "college": "Texas A&M",
-    "contract": "$2,750,000",
-    "image": "../images/players/Caruso.png"
+    "image": "../images/players/Bazemore.png"
   },
   {
     "id": 7,
@@ -60,30 +36,6 @@
     "image": "../images/players/Davis.png"
   },
   {
-    "id": 25,
-    "name": "Andre Drummond",
-    "jersey": 2,
-    "position": "C",
-    "age": 27,
-    "height": "6' 10\"",
-    "weight": "279 lbs",
-    "college": "UConn",
-    "contract": null,
-    "image": "../images/players/Drummond.png"
-  },
-  {
-    "id": 8,
-    "name": "Jared Dudley",
-    "jersey": 10,
-    "position": "SF",
-    "age": 35,
-    "height": "6' 6\"",
-    "weight": "237 lbs",
-    "college": "Boston College",
-    "contract": "$2,565,000",
-    "image": "../images/players/Dudley.png"
-  },
-  {
     "id": 22,
     "name": "Marc Gasol",
     "jersey": 14,
@@ -96,16 +48,16 @@
     "image": "../images/players/Gasol.png"
   },
   {
-    "id": 21,
-    "name": "Montrezl Harrell",
-    "jersey": 15,
-    "position": "PF/C",
-    "age": 26,
-    "height": "6' 7\"",
-    "weight": "240 lbs",
-    "college": "Louisville",
-    "contract": "$9,250,000",
-    "image": "../images/players/Harrell2.png"
+    "id": 30,
+    "name": "Wayne Ellington",
+    "jersey": 0,
+    "position": "SG",
+    "age": 33,
+    "height": "6' 4\"",
+    "weight": "207 lbs",
+    "college": "North Carolina",
+    "contract": " ",
+    "image": "../images/players/Ellington.png"
   },
   {
     "id": 10,
@@ -120,6 +72,18 @@
     "image": "../images/players/Horton-Tucker.png"
   },
   {
+    "id": 11,
+    "name": "Dwight Howard",
+    "jersey": 39,
+    "position": "C",
+    "age": 34,
+    "height": "6' 10\"",
+    "weight": "265 lbs",
+    "college": " ",
+    "contract": "$1,650,564",
+    "image": "../images/players/Howard.png"
+  },
+  {
     "id": 12,
     "name": "Lebron James",
     "jersey": 23,
@@ -130,18 +94,6 @@
     "college": " ",
     "contract": "$37,436,858",
     "image": "../images/players/James.png"
-  },
-  {
-    "id": 13,
-    "name": "Kyle Kuzma",
-    "jersey": 0,
-    "position": "PF",
-    "age": 25,
-    "height": "6' 8\"",
-    "weight": "221 lbs",
-    "college": "Utah",
-    "contract": "$1,974,600",
-    "image": "../images/players/Kuzma.png"
   },
   {
     "id": 20,
@@ -168,18 +120,6 @@
     "image": "../images/players/McKinnie.png"
   },
   {
-    "id": 26,
-    "name": "Ben McLemore",
-    "jersey": 7,
-    "position": "SG",
-    "age": 28,
-    "height": "6' 3\"",
-    "weight": "195 lbs",
-    "college": "Kansas",
-    "contract": "",
-    "image": "../images/players/McLemore.png"
-  },
-  {
     "id": 15,
     "name": "Markieff Morris",
     "jersey": 88,
@@ -202,5 +142,17 @@
     "college": "Germany",
     "contract": "$15,500,000",
     "image": "../images/players/Schroder.png"
+  },
+  {
+    "id": 27,
+    "name": "Russell Westbrook",
+    "jersey": 4,
+    "position": "PG",
+    "age": 32,
+    "height": "6' 3\"",
+    "weight": "200 lbs",
+    "college": "UCLA",
+    "contract": "",
+    "image": "../images/players/Westbrook.png"
   }
 ]

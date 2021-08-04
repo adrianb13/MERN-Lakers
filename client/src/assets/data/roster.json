@@ -1,5 +1,17 @@
 [
   {
+    "id": 31,
+    "name": "Carmelo Anthony",
+    "jersey": 0,
+    "position": "PF",
+    "age": 37,
+    "height": "6' 7\"",
+    "weight": "238 lbs",
+    "college": "Syracuse",
+    "contract": "$1,789,256",
+    "image": "../images/players/Anthony.png"
+  },
+  {
     "id": 28,
     "name": "Trevor Ariza",
     "jersey": 0,
@@ -8,7 +20,7 @@
     "height": "6' 8\"",
     "weight": "215 lbs",
     "college": "UCLA",
-    "contract": "$2,642,000",
+    "contract": "$1,789,256",
     "image": "../images/players/Ariza.png"
   },
   {
@@ -20,7 +32,7 @@
     "height": "6' 4\"",
     "weight": "195 lbs",
     "college": "Old Dominion",
-    "contract": "$2,642,000",
+    "contract": "$1,789,256",
     "image": "../images/players/Bazemore.png"
   },
   {
@@ -44,7 +56,7 @@
     "height": "6' 4\"",
     "weight": "207 lbs",
     "college": "North Carolina",
-    "contract": "$2,642,000",
+    "contract": "$1,789,256",
     "image": "../images/players/Ellington.png"
   },
   {
@@ -56,7 +68,7 @@
     "height": "6' 11\"",
     "weight": "255 lbs",
     "college": "Spain",
-    "contract": "$2,642,000",
+    "contract": "$2,692,991",
     "image": "../images/players/Gasol.png"
   },
   {
@@ -68,7 +80,7 @@
     "height": "6' 4\"",
     "weight": "234 lbs",
     "college": "Iowa State",
-    "contract": "$898,310",
+    "contract": "$9,876,543",
     "image": "../images/players/Horton-Tucker.png"
   },
   {
@@ -80,7 +92,7 @@
     "height": "6' 10\"",
     "weight": "265 lbs",
     "college": " ",
-    "contract": "$2,642,000",
+    "contract": "$1,789,256",
     "image": "../images/players/Howard.png"
   },
   {
@@ -96,18 +108,6 @@
     "image": "../images/players/James.png"
   },
   {
-    "id": 20,
-    "name": "Wesley Matthews",
-    "jersey": 9,
-    "position": "SG",
-    "age": 34,
-    "height": "6' 4\"",
-    "weight": "220 lbs",
-    "college": "Marquette",
-    "contract": "$3,600,000",
-    "image": "../images/players/Matthews.png"
-  },
-  {
     "id": 23,
     "name": "Alfonzo McKinnie",
     "jersey": 28,
@@ -120,28 +120,28 @@
     "image": "../images/players/McKinnie.png"
   },
   {
-    "id": 15,
-    "name": "Markieff Morris",
-    "jersey": 88,
-    "position": "PF/C",
-    "age": 31,
-    "height": "6' 8\"",
-    "weight": "245 lbs",
-    "college": "Kansas",
-    "contract": "$2,642,000",
-    "image": "../images/players/Morris.png"
+    "id": 32,
+    "name": "Malik Monk",
+    "jersey": 0,
+    "position": "SG",
+    "age": 23,
+    "height": "6' 3\"",
+    "weight": "200 lbs",
+    "college": "Kentucky",
+    "contract": "$1,789,256",
+    "image": "../images/players/Monk.png"
   },
   {
-    "id": 19,
-    "name": "Dennis Schr\u00F6der",
-    "jersey": 17,
+    "id": 33,
+    "name": "Kendrick Nunn",
+    "jersey": 0,
     "position": "PG",
-    "age": 27,
-    "height": "6' 1\"",
-    "weight": "172 lbs",
-    "college": "Germany",
-    "contract": "$15,500,000",
-    "image": "../images/players/Schroder.png"
+    "age": 26,
+    "height": "6' 2\"",
+    "weight": "190 lbs",
+    "college": "Illinois",
+    "contract": "$5,121,951",
+    "image": "../images/players/Nunn.png"
   },
   {
     "id": 27,

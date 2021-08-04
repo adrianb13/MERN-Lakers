@@ -1,5 +1,52 @@
 [
   {
+    "id": 31,
+    "name": "Carmelo Anthony",
+    "jersey": 0,
+    "image": "../images/players/Anthony.png",
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,  
+      "MIN": 0,        
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 1191,
+      "PPG": 23.0,  
+      "MIN": 35.0,        
+      "FGP": 44.7,
+      "P3P": 35.3,
+      "FTP": 81.4,
+      "REB": 6.3,
+      "AST": 2.8,  
+      "BLK": 0.5,
+      "STL": 1.0,
+      "PF": 2.8,
+      "TO": 2.5
+    }
+  },
+  {
     "id": 28,
     "name": "Trevor Ariza",
     "jersey": 0,
@@ -141,53 +188,6 @@
     }
   },
   {
-    "id": 10,
-    "name": "Talen Horton-Tucker",
-    "image": "../images/players/Horton-Tucker.png",
-    "jersey": 5,
-    "game": {
-      "PTS": 0,
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "season": {
-      "GP": 0,
-      "PPG": 0,  
-      "MIN": 0,        
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "career": {
-      "GP": 71,
-      "PPG": 8.7,  
-      "MIN": 19.5,
-      "FGP": 45.9,
-      "P3P": 28.5,
-      "FTP": 76.7,
-      "REB": 2.5,
-      "AST": 2.6,
-      "BLK": 0.3,
-      "STL": 1.0,
-      "PF": 1.9,
-      "TO": 1.6
-    }
-  },
-  {
     "id": 30,
     "name": "Wayne Ellington",
     "image": "../images/players/Ellington.png",
@@ -279,6 +279,53 @@
       "STL": 0.9,
       "PF": 2.9,
       "TO": 2.0
+    }
+  },
+  {
+    "id": 10,
+    "name": "Talen Horton-Tucker",
+    "image": "../images/players/Horton-Tucker.png",
+    "jersey": 5,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,  
+      "MIN": 0,        
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 71,
+      "PPG": 8.7,  
+      "MIN": 19.5,
+      "FGP": 45.9,
+      "P3P": 28.5,
+      "FTP": 76.7,
+      "REB": 2.5,
+      "AST": 2.6,
+      "BLK": 0.3,
+      "STL": 1.0,
+      "PF": 1.9,
+      "TO": 1.6
     }
   },
   {
@@ -376,53 +423,6 @@
     }
   },
   {
-    "id": 20,
-    "name": "Wesley Matthews Jr.",
-    "image": "../images/players/Matthews.png",
-    "jersey": 9,
-    "game": {
-      "PTS": 0,
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "season": {
-      "GP": 0,
-      "PPG": 0,  
-      "MIN": 0,        
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "career": {
-      "GP": 849,
-      "PPG": 12.6,
-      "MIN": 31.0,
-      "FGP": 42.1,
-      "P3P": 37.9,
-      "FTP": 82.4,
-      "REB": 2.9,
-      "AST": 2.1,
-      "BLK": 0.2,
-      "STL": 1.0,
-      "PF": 2.1,
-      "TO": 1.2
-    }
-  },
-  {
     "id": 23,
     "name": "Alfonzo McKinnie",
     "image": "../images/players/McKinnie.png",
@@ -470,10 +470,10 @@
     }
   },
   {
-    "id": 15,
-    "name": "Markieff Morris",
-    "image": "../images/players/Morris.png",
-    "jersey": 88,
+    "id": 32,
+    "name": "Malik Monk",
+    "image": "../images/players/Monk.png",
+    "jersey": 0,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -502,25 +502,25 @@
       "TO": 0
     },
     "career": {
-      "GP": 698,
-      "PPG": 11.0,
-      "MIN": 25.0,
-      "FGP": 44.6,
-      "P3P": 34.1,
-      "FTP": 77.6,
-      "REB": 5.3,
-      "AST": 1.6,
-      "BLK": 0.5,
-      "STL": 0.8,
-      "PF": 2.8,
-      "TO": 1.5
+      "GP": 233,
+      "PPG": 9.1,
+      "MIN": 17.8,
+      "FGP": 40.3,
+      "P3P": 33.9,
+      "FTP": 84.3,
+      "REB": 2.0,
+      "AST": 1.8,
+      "BLK": 0.2,
+      "STL": 0.4,
+      "PF": 1.2,
+      "TO": 1.1
     }
   },
   {
-    "id": 19,
-    "name": "Dennis Schr\u00F6der",
-    "image": "../images/players/Schroder.png",
-    "jersey": 17,
+    "id": 33,
+    "name": "Kendrick Nunn",
+    "image": "../images/players/Nunn.png",
+    "jersey": 0,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -549,18 +549,18 @@
       "TO": 0
     },
     "career": {
-      "GP": 557,
-      "PPG": 14.3,
-      "MIN": 26.2,
-      "FGP": 43.6,
-      "P3P": 33.7,
-      "FTP": 83.1,
+      "GP": 123,
+      "PPG": 15.0,
+      "MIN": 29.4,
+      "FGP": 45.8,
+      "P3P": 36.4,
+      "FTP": 88.1,
       "REB": 2.9,
-      "AST": 4.7,
-      "BLK": 0.1,
-      "STL": 0.8,
-      "PF": 2.0,
-      "TO": 2.4
+      "AST": 3.0,
+      "BLK": 0.2,
+      "STL": 0.9,
+      "PF": 2.1,
+      "TO": 1.6
     }
   },
   {

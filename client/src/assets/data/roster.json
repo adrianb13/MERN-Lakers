@@ -108,18 +108,6 @@
     "image": "../images/players/James.png"
   },
   {
-    "id": 23,
-    "name": "Alfonzo McKinnie",
-    "jersey": 28,
-    "position": "SF",
-    "age": 28,
-    "height": "6' 7\"",
-    "weight": "215 lbs",
-    "college": "Green Bay",
-    "contract": "$1,900,000",
-    "image": "../images/players/McKinnie.png"
-  },
-  {
     "id": 32,
     "name": "Malik Monk",
     "jersey": 0,

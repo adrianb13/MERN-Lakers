@@ -423,53 +423,6 @@
     }
   },
   {
-    "id": 23,
-    "name": "Alfonzo McKinnie",
-    "image": "../images/players/McKinnie.png",
-    "jersey": 28,
-    "game": {
-      "PTS": 0,
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "season": {
-      "GP": 0,
-      "PPG": 0,  
-      "MIN": 0,        
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "career": {
-      "GP": 165,
-      "PPG": 4.0,
-      "MIN": 11.6,
-      "FGP": 47.5,
-      "P3P": 32.5,
-      "FTP": 61.0,
-      "REB": 2.6,
-      "AST": 0.3,
-      "BLK": 0.1,
-      "STL": 0.3,
-      "PF": 1.5,
-      "TO": 0.4
-    }
-  },
-  {
     "id": 32,
     "name": "Malik Monk",
     "image": "../images/players/Monk.png",

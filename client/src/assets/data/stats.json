@@ -2,7 +2,7 @@
   {
     "id": 31,
     "name": "Carmelo Anthony",
-    "jersey": 0,
+    "jersey": 7,
     "image": "../images/players/Anthony.png",
     "game": {
       "PTS": 0,
@@ -49,7 +49,7 @@
   {
     "id": 28,
     "name": "Trevor Ariza",
-    "jersey": 0,
+    "jersey": 1,
     "image": "../images/players/Ariza.png",
     "game": {
       "PTS": 0,
@@ -97,7 +97,7 @@
     "id": 29,
     "name": "Kent Bazemore",
     "image": "../images/players/Bazemore.png",
-    "jersey": 0,
+    "jersey": 9,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -191,7 +191,7 @@
     "id": 30,
     "name": "Wayne Ellington",
     "image": "../images/players/Ellington.png",
-    "jersey": 0,
+    "jersey": 2,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -426,7 +426,7 @@
     "id": 32,
     "name": "Malik Monk",
     "image": "../images/players/Monk.png",
-    "jersey": 0,
+    "jersey": 11,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -473,7 +473,7 @@
     "id": 33,
     "name": "Kendrick Nunn",
     "image": "../images/players/Nunn.png",
-    "jersey": 0,
+    "jersey": 22,
     "game": {
       "PTS": 0,
       "MIN": 0,

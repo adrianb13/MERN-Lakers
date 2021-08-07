@@ -520,7 +520,7 @@
     "id": 27,
     "name": "Russell Westbrook",
     "image": "../images/players/Westbrook.png",
-    "jersey": 4,
+    "jersey": 0,
     "game": {
       "PTS": 0,
       "MIN": 0,

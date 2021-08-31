@@ -218,7 +218,7 @@ class Info extends React.Component{
                                 ) : ( 
                                   <div>
                                     {this.state.playoffwin < this.state.playoffloss ? (
-                                      <div>Lakers Losing the Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
+                                      <div>Lakers Lost the Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
                                     ) : (
                                       <div>Series Tied ({this.state.playoffwin} - {this.state.playoffloss})</div>
                                     )}

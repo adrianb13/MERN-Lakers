@@ -8,7 +8,7 @@
     "height": "6' 7\"",
     "weight": "238 lbs",
     "college": "Syracuse",
-    "contract": "$1,789,256",
+    "contract": "$2,641,691",
     "image": "../images/players/Anthony.png"
   },
   {
@@ -20,7 +20,7 @@
     "height": "6' 8\"",
     "weight": "215 lbs",
     "college": "UCLA",
-    "contract": "$1,789,256",
+    "contract": "$2,641,691",
     "image": "../images/players/Ariza.png"
   },
   {
@@ -32,7 +32,7 @@
     "height": "6' 4\"",
     "weight": "195 lbs",
     "college": "Old Dominion",
-    "contract": "$1,789,256",
+    "contract": "$2,401,537",
     "image": "../images/players/Bazemore.png"
   },
   {
@@ -56,7 +56,7 @@
     "height": "6' 4\"",
     "weight": "207 lbs",
     "college": "North Carolina",
-    "contract": "$1,789,256",
+    "contract": "$2,641,691",
     "image": "../images/players/Ellington.png"
   },
   {
@@ -92,7 +92,7 @@
     "height": "6' 10\"",
     "weight": "265 lbs",
     "college": " ",
-    "contract": "$1,789,256",
+    "contract": "$2,641,691",
     "image": "../images/players/Howard.png"
   },
   {
@@ -130,6 +130,18 @@
     "college": "Illinois",
     "contract": "$5,121,951",
     "image": "../images/players/Nunn.png"
+  },
+  {
+    "id": 16,
+    "name": "Rajon Rondo",
+    "jersey": 9,
+    "position": "PG",
+    "age": 35,
+    "height": "6' 1\"",
+    "weight": "180 lbs",
+    "college": "Kentucky",
+    "contract": "$2,641,691",
+    "image": "../images/players/Rondo.png"
   },
   {
     "id": 27,

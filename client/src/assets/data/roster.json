@@ -60,18 +60,6 @@
     "image": "../images/players/Ellington.png"
   },
   {
-    "id": 22,
-    "name": "Marc Gasol",
-    "jersey": 14,
-    "position": "C",
-    "age": 35,
-    "height": "6' 11\"",
-    "weight": "255 lbs",
-    "college": "Spain",
-    "contract": "$2,692,991",
-    "image": "../images/players/Gasol.png"
-  },
-  {
     "id": 10,
     "name": "Talen Horton-Tucker",
     "jersey": 5,

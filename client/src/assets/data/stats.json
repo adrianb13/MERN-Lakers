@@ -235,53 +235,6 @@
     }
   },
   {
-    "id": 22,
-    "name": "Marc Gasol",
-    "image": "../images/players/Gasol.png",
-    "jersey": 14,
-    "game": {
-      "PTS": 0,
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "season": {
-      "GP": 0,
-      "PPG": 0,  
-      "MIN": 0,        
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "career": {
-      "GP": 891,
-      "PPG": 14.0,
-      "MIN": 32.2,
-      "FGP": 48.1,
-      "P3P": 36.0,
-      "FTP": 77.6,
-      "REB": 7.4,
-      "AST": 3.4,
-      "BLK": 1.4,
-      "STL": 0.9,
-      "PF": 2.9,
-      "TO": 2.0
-    }
-  },
-  {
     "id": 10,
     "name": "Talen Horton-Tucker",
     "image": "../images/players/Horton-Tucker.png",

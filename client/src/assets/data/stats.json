@@ -423,6 +423,53 @@
     }
   },
   {
+    "id": 34,
+    "name": "Deandre Jordan",
+    "image": "../images/players/Jordan.png",
+    "jersey": 6,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,  
+      "MIN": 0,        
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 932,
+      "PPG": 9.4,
+      "MIN": 27.4,
+      "FGP": 67.4,
+      "P3P": 8.3,
+      "FTP": 47.5,
+      "REB": 10.6,
+      "AST": 1.0,
+      "BLK": 1.6,
+      "STL": 0.6,
+      "PF": 2.6,
+      "TO": 1.4
+    }
+  },
+  {
     "id": 32,
     "name": "Malik Monk",
     "image": "../images/players/Monk.png",

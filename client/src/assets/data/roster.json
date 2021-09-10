@@ -108,6 +108,18 @@
     "image": "../images/players/James.png"
   },
   {
+    "id": 34,
+    "name": "Deandre Jordan",
+    "jersey": 6,
+    "position": "C",
+    "age": 33,
+    "height": "6' 11\"",
+    "weight": "265 lbs",
+    "college": " ",
+    "contract": "$2,641,691",
+    "image": "../images/players/Jordan.png"
+  },
+  {
     "id": 32,
     "name": "Malik Monk",
     "jersey": 11,

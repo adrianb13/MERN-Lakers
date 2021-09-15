@@ -473,7 +473,7 @@
     "id": 33,
     "name": "Kendrick Nunn",
     "image": "../images/players/Nunn.png",
-    "jersey": 22,
+    "jersey": 12,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -520,7 +520,7 @@
     "id": 16,
     "name": "Rajon Rondo",
     "image": "../images/players/Rondo.png",
-    "jersey": 9,
+    "jersey": 4,
     "game": {
       "PTS": 0,
       "MIN": 0,

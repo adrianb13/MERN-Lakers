@@ -24,7 +24,7 @@ class Info extends React.Component{
     recordloss: 0,
     playoffwin: 0, 
     playoffloss: 0,
-    schedule: true,
+    schedule: false,
     seriesWin: false,
     playoffs: false
   };
@@ -65,14 +65,14 @@ class Info extends React.Component{
         this.setState({
           lastGame: this.props.schedule[(recent-1)],
           showLatest: true
-        })
+        });
       }
       if(recent < 0){
         let last = this.props.schedule.length-1;
         this.setState({
           lastGame: this.props.schedule[last],
           showLatest: true
-        })
+        });
       };
     };
   };
@@ -129,12 +129,11 @@ class Info extends React.Component{
                 recordloss: rloss
               })
             }
-          }
-          
+          } 
         }
-        return this.state
-      })
-      
+        return this.state;
+      });
+      this.showSchedule(true);
     }; 
   };
 
@@ -173,14 +172,14 @@ class Info extends React.Component{
             </div>
             <div className="iRecord iLoses">L - {this.state.recordloss}</div>
           </div>
-          <Link to="/champs">
+          {/* <Link to="/champs">
             <div className="iSnake">
               <div className="iBottomBorder iChampions">
                 <div className="iTrophy"></div>
                 <div className="iShadow">2020 NBA Champions!!!</div>
               </div>
             </div>
-          </Link>
+          </Link> */}
           <div className="iNextGameBox">
             <div className="iHeader">Latest Game</div>
               {this.state.showLatest ? (
@@ -259,7 +258,7 @@ class Info extends React.Component{
                       </div>
                     ))}
                   </div>
-                  <div className="iEnd iBottomBorder">More To Come</div>
+                  <div className="iEnd iBottomBorder">End Of Regular Season</div>
                 </div>
               ) : (
                 <div>
@@ -294,12 +293,12 @@ class Info extends React.Component{
 }
 
 const mapStateToProps = (state) => {
-  /* let info = {wins: null, losses: null, nextGame: "", upcoming: []}
+  let info = {wins: null, losses: null, nextGame: "", upcoming: []}
   if(state.info.length > 0){
     info = Object.assign([], state.info)
-  } */
+  }
   return { 
-    //info: info,
+    info: info,
     schedule: state.schedule
   }
 }

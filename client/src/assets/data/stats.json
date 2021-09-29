@@ -517,6 +517,53 @@
     }
   },
   {
+    "id": 35,
+    "name": "Austin Reaves",
+    "image": "../images/players/Reaves.png",
+    "jersey": 15,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,  
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 0,
+      "PPG": 0,  
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    }
+  },
+  {
     "id": 16,
     "name": "Rajon Rondo",
     "image": "../images/players/Rondo.png",

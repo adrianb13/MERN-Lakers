@@ -132,14 +132,26 @@
     "image": "../images/players/Nunn.png"
   },
   {
+    "id": 35,
+    "name": "Austin Reaves",
+    "jersey": 15,
+    "position": "PG",
+    "age": 26,
+    "height": "6' 2\"",
+    "weight": "190 lbs",
+    "college": "Illinois",
+    "contract": "$925,258",
+    "image": "../images/players/Reaves.png"
+  },
+  {
     "id": 16,
     "name": "Rajon Rondo",
     "jersey": 4,
-    "position": "PG",
-    "age": 35,
-    "height": "6' 1\"",
-    "weight": "180 lbs",
-    "college": "Kentucky",
+    "position": "SG",
+    "age": 23,
+    "height": "6' 5\"",
+    "weight": "197 lbs",
+    "college": "Oklahoma",
     "contract": "$2,641,691",
     "image": "../images/players/Rondo.png"
   },

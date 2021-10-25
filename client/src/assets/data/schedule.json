@@ -17,64 +17,64 @@
         "home": false,
         "opponent": "Phoenix Suns",
         "game": "Preseason @ 7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "105-117 (Preseason)",
+        "win": false
       },
       { 
         "date": "10/08/2021",
         "home": false,
         "opponent": "Golden State Warriors",
         "game": "Preseason @ 7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "114-121 (Preseason)",
+        "win": false
       }, 
       { 
         "date": "10/10/2021",
         "home": true,
         "opponent": "Phoenix Suns",
         "game": "Preseason @ 7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "94-123 (Preseason)",
+        "win": false
       },
       { 
         "date": "10/12/2021",
         "home": true,
         "opponent": "Golden State Warriors",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "99-111 (Preseason)",
+        "win": false
       },
       { 
         "date": "10/14/2021",
         "home": false,
         "opponent": "Sacramento Kings",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "112-116 (Preseason)",
+        "win": false
       },
       { 
         "date": "10/19/2021",
         "home": true,
         "opponent": "Golden State Warriors",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "114-121",
+        "win": false
       },
       { 
         "date": "10/22/2021",
         "home": true,
         "opponent": "Phoenix Suns",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "105-115",
+        "win": false
       },
       { 
         "date": "10/24/2021",
         "home": true,
         "opponent": "Memphis Grizzlies",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "121-118",
+        "win": true
       },
       { 
         "date": "10/26/2021",

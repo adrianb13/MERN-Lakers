@@ -81,13 +81,13 @@ class Home extends React.Component{
               </div>
             </Link>
           </div>
-          <div className="hRunnerBox">
+          {/* <div className="hRunnerBox">
             <div className="hRunner">
               <div className="hTrophy"></div>
               <div className="hShadow">2020 NBA Champions!!!</div>
               <div className="hTrophy"></div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     )

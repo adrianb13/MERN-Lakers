@@ -121,48 +121,48 @@
         "home": true,
         "opponent": "Oklahoma City Thunder",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "104-107",
+        "win": false
       },
       { 
         "date": "11/06/2021",
         "home": false,
         "opponent": "Portland Trailblazers",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "90-105",
+        "win": false
       },
       { 
         "date": "11/08/2021",
         "home": true,
         "opponent": "Charlotte Hornets",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "126-123",
+        "win": true
       },
       { 
         "date": "11/10/2021",
         "home": true,
         "opponent": "Miami Heat",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "120-117",
+        "win": true
       },
       { 
         "date": "11/12/2021",
         "home": true,
         "opponent": "Minnesota Timberwolves",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "83-107",
+        "win": false
       },
       { 
         "date": "11/14/2021",
         "home": true,
         "opponent": "San Antonio Spurs",
         "game": "12:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "114-106",
+        "win": true
       },
       { 
         "date": "11/15/2021",

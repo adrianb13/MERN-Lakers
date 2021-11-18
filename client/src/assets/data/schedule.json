@@ -169,16 +169,16 @@
         "home": true,
         "opponent": "Chicago Bulls",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "103-121",
+        "win": false
       },
       { 
         "date": "11/17/2021",
         "home": false,
         "opponent": "Milwaukee Bucks",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "102-109",
+        "win": false
       },
       { 
         "date": "11/19/2021",

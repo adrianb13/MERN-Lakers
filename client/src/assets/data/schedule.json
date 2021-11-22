@@ -185,16 +185,16 @@
         "home": false,
         "opponent": "Boston Celtics",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "108-130",
+        "win": false
       },
       { 
         "date": "11/21/2021",
         "home": false,
         "opponent": "Detroit Pistons",
         "game": "3:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "121-116",
+        "win": true
       },
       { 
         "date": "11/23/2021",

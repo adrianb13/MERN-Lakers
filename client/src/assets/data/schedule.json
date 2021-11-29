@@ -201,32 +201,32 @@
         "home": false,
         "opponent": "New York Knicks",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "100-106",
+        "win": false
       },
       { 
         "date": "11/24/2021",
         "home": false,
         "opponent": "Indiana Pacers",
         "game": "4:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "124-116",
+        "win": true
       },
       { 
         "date": "11/26/2021",
         "home": true,
         "opponent": "Sacramento Kings",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "137-141",
+        "win": false
       },
       { 
         "date": "11/28/2021",
         "home": true,
         "opponent": "Detroit Pistons",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "110-106",
+        "win": true
       },
       { 
         "date": "11/30/2021",

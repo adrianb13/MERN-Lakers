@@ -241,8 +241,8 @@
         "home": true,
         "opponent": "Los Angeles Clippers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "115-119",
+        "win": false
       },
       { 
         "date": "12/07/2021",

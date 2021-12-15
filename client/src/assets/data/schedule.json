@@ -249,32 +249,32 @@
         "home": true,
         "opponent": "Boston Celtics",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "117-102",
+        "win": true
       },
       { 
         "date": "12/09/2021",
         "home": false,
         "opponent": "Memphis Grizzlies",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "95-108",
+        "win": false
       },
       { 
         "date": "12/10/2021",
         "home": false,
         "opponent": "Oklahoma City Thunder",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "116-95",
+        "win": true
       },
       { 
         "date": "12/12/2021",
         "home": true,
         "opponent": "Orlando Magic",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "106-94",
+        "win": true
       },
       { 
         "date": "12/15/2021",

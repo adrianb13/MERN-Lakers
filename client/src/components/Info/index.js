@@ -61,6 +61,8 @@ class Info extends React.Component{
     if(this.props.schedule.length !== 0){
       let schedule = this.props.schedule.sort(this.sortData)
       let recent = schedule.findIndex(games => games.score === "N/A");
+      console.log(schedule)
+      console.log(recent)
       if(recent > 0){
         this.setState({
           lastGame: this.props.schedule[(recent-1)],

@@ -289,16 +289,16 @@
         "home": false,
         "opponent": "Minnesota Timberwolves",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "92-110",
+        "win": false
       },
       { 
         "date": "12/19/2021",
         "home": false,
         "opponent": "Chicago Bulls",
         "game": "12:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "110-115",
+        "win": false
       },
       { 
         "date": "12/21/2021",

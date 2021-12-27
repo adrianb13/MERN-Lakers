@@ -305,24 +305,24 @@
         "home": true,
         "opponent": "Phoenix Suns",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "90-108",
+        "win": false
       },
       { 
         "date": "12/23/2021",
         "home": true,
         "opponent": "San Antonio Spurs",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "110-138",
+        "win": false
       },
       { 
         "date": "12/25/2021",
         "home": true,
         "opponent": "Brooklyn Nets",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "115-122",
+        "win": false
       },
       { 
         "date": "12/28/2021",

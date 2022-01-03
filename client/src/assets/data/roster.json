@@ -96,6 +96,18 @@
     "image": "../images/players/James.png"
   },
   {
+    "id": 36,
+    "name": "Stanley Johnson",
+    "jersey": 14,
+    "position": "PF",
+    "age": 25,
+    "height": "6' 6\"",
+    "weight": "242 lbs",
+    "college": "Arizona",
+    "contract": "",
+    "image": "../images/players/Johnson.png"
+  },
+  {
     "id": 34,
     "name": "Deandre Jordan",
     "jersey": 6,
@@ -142,18 +154,6 @@
     "college": "Illinois",
     "contract": "$925,258",
     "image": "../images/players/Reaves.png"
-  },
-  {
-    "id": 16,
-    "name": "Rajon Rondo",
-    "jersey": 4,
-    "position": "SG",
-    "age": 23,
-    "height": "6' 5\"",
-    "weight": "197 lbs",
-    "college": "Oklahoma",
-    "contract": "$2,641,691",
-    "image": "../images/players/Rondo.png"
   },
   {
     "id": 27,

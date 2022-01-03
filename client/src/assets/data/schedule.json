@@ -329,32 +329,32 @@
         "home": false,
         "opponent": "Houston Rockets",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "132-123",
+        "win": true
       },
       { 
         "date": "12/29/2021",
         "home": false,
         "opponent": "Memphis Grizzlies",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "99-104",
+        "win": false
       },
       { 
         "date": "12/31/2021",
         "home": true,
         "opponent": "Portland Trailblazers",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "139-106",
+        "win": true
       },
       { 
         "date": "01/02/2022",
         "home": true,
         "opponent": "Minnesota Timberwolves",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "108-103",
+        "win": true
       },
       { 
         "date": "01/04/2022",

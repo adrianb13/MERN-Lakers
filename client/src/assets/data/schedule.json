@@ -369,16 +369,16 @@
         "home": true,
         "opponent": "Atlanta Hawks",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "134-118",
+        "win": true
       },
       { 
         "date": "01/09/2022",
         "home": true,
         "opponent": "Memphis Grizzlies",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "119-127",
+        "win": false
       },
       { 
         "date": "01/12/2022",

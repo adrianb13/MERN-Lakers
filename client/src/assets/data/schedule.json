@@ -417,24 +417,24 @@
         "home": false,
         "opponent": "Orlando Magic",
         "game": "4:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "116-105",
+        "win": true
       },
       {
         "date": "01/23/2022",
         "home": false,
         "opponent": "Miami Heat",
         "game": "3:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "107-113",
+        "win": false
       },
       { 
         "date": "01/25/2022",
         "home": false,
         "opponent": "Brooklyn Nets",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "106-96",
+        "win": true
       },
       { 
         "date": "01/27/2022",

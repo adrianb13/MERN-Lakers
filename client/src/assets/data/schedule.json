@@ -441,24 +441,24 @@
         "home": false,
         "opponent": "Philadelphia 76ers",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "87-105",
+        "win": false
       },
       { 
         "date": "01/28/2022",
         "home": false,
         "opponent": "Charlotte Hornets",
         "game": "4:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "114-117",
+        "win": false
       },
       { 
         "date": "01/30/2022",
         "home": false,
         "opponent": "Atlanta Hawks",
         "game": "10:00 AM PT",
-        "score": "N/A",
-        "win": null
+        "score": "121-129",
+        "win": false
       },
       { 
         "date": "02/02/2022",

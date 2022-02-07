@@ -465,24 +465,24 @@
         "home": true,
         "opponent": "Portland Trailblazers",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "99-94",
+        "win": true
       },
       { 
         "date": "02/03/2022",
         "home": false,
         "opponent": "Los Angeles Clippers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "110-111",
+        "win": false
       },
       { 
         "date": "02/05/2022",
         "home": true,
         "opponent": "New York Knicks",
         "game": "5:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "122-115",
+        "win": true
       },
       { 
         "date": "02/08/2022",

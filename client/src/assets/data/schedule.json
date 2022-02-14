@@ -489,24 +489,24 @@
         "home": true,
         "opponent": "Milwaukee Bucks",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "116-131",
+        "win": false
       },
       { 
         "date": "02/09/2022",
         "home": false,
         "opponent": "Portland Trailblazers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "105-107",
+        "win": false
       },
       { 
         "date": "02/12/2022",
         "home": false,
         "opponent": "Golden State Warriors",
         "game": "5:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "115-117",
+        "win": false
       },
       { 
         "date": "02/16/2022",

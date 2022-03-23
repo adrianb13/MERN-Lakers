@@ -84,6 +84,18 @@
     "image": "../images/players/Ellington.png"
   },
   {
+    "id": 38,
+    "name": "Wenyen Gabriel",
+    "jersey": 35,
+    "position": "F",
+    "age": 35,
+    "height": "6' 9\"",
+    "weight": "205 lbs",
+    "college": "Kentucky",
+    "contract": "",
+    "image": "../images/players/Gabriel.png"
+  },
+  {
     "id": 10,
     "name": "Talen Horton-Tucker",
     "jersey": 5,

@@ -329,6 +329,53 @@
     }
   },
   {
+    "id": 38,
+    "name": "Wenyen Gabriel",
+    "image": "../images/players/Gabriel.png",
+    "jersey": 35,
+    "game": {
+      "PTS": 9,
+      "MIN": 32,
+      "FGP": 40.0,
+      "P3P": 0,
+      "FTP": 100.0,
+      "REB": 6,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 2,
+      "PF": 3,
+      "TO": 0
+    },
+    "season": {
+      "GP": 16,
+      "PPG": 4.4,  
+      "MIN": 11.3,
+      "FGP": 41.7,
+      "P3P": 31.8,
+      "FTP": 61.9,
+      "REB": 3.2,
+      "AST": 0.4,
+      "BLK": 0.3,
+      "STL": 0.3,
+      "PF": 2.3,
+      "TO": 0.4
+    },
+    "career": {
+      "GP": 67,
+      "PPG": 3.1,  
+      "MIN": 9.8,
+      "FGP": 41.7,
+      "P3P": 35.1,
+      "FTP": 65.0,
+      "REB": 2.3,
+      "AST": 0.4,
+      "BLK": 0.3,
+      "STL": 0.4,
+      "PF": 1.6,
+      "TO": 0.6
+    }
+  },
+  {
     "id": 10,
     "name": "Talen Horton-Tucker",
     "image": "../images/players/Horton-Tucker.png",

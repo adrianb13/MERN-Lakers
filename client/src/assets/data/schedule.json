@@ -521,112 +521,112 @@
         "home": true,
         "opponent": "Los Angeles Clippers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "102-105",
+        "win": false
       },
       {
         "date": "02/27/2022",
         "home": true,
         "opponent": "New Orleans Pelicans",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "95-123",
+        "win": false
       },
       {
         "date": "03/01/2022",
         "home": true,
         "opponent": "Dallas Mavericks",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "104-109",
+        "win": false
       },
       { 
         "date": "03/03/2022",
         "home": false,
         "opponent": "Los Angeles Clippers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "111-132",
+        "win": false
       },
       { 
         "date": "03/05/2022",
         "home": true,
         "opponent": "Golden State Warriors",
         "game": "5:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "124-116",
+        "win": true
       },
       { 
         "date": "03/07/2022",
         "home": true,
         "opponent": "San Antonio Spurs",
         "game": "5:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "110-117",
+        "win": false
       },
       { 
         "date": "03/09/2022",
         "home": false,
         "opponent": "Houston Rockets",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "130-139",
+        "win": false
       },
       { 
         "date": "03/11/2022",
         "home": true,
         "opponent": "Washington Wizards",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "122-109",
+        "win": true
       },
       { 
         "date": "03/13/2022",
         "home": false,
         "opponent": "Phoenix Suns",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "111-140",
+        "win": false
       },
       { 
         "date": "03/14/2022",
         "home": true,
         "opponent": "Toronto Raptors",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "103-114",
+        "win": false
       },
       { 
         "date": "03/16/2022",
         "home": false,
         "opponent": "Minnesota Timberwolves",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "104-124",
+        "win": false
       },
       {
         "date": "03/18/2022",
         "home": false,
         "opponent": "Toronto Raptors",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "128-123",
+        "win": true
       },
       {
         "date": "03/19/2022",
         "home": false,
         "opponent": "Washington Wizards",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "119-127",
+        "win": false
       },
       {
         "date": "03/21/2022",
         "home": false,
         "opponent": "Cleveland Cavaliers",
         "game": "4:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "131-120",
+        "win": true
       },
       {
         "date": "03/23/2022",

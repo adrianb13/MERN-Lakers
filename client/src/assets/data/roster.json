@@ -1,5 +1,17 @@
 [
   {
+    "id": 37,
+    "name": "DJ Augustin",
+    "jersey": 4,
+    "position": "SG",
+    "age": 34,
+    "height": "5' 11\"",
+    "weight": "183 lbs",
+    "college": "Texas",
+    "contract": "",
+    "image": "../images/players/Augustin.png"
+  },
+  {
     "id": 31,
     "name": "Carmelo Anthony",
     "jersey": 7,
@@ -34,6 +46,18 @@
     "college": "Old Dominion",
     "contract": "$2,401,537",
     "image": "../images/players/Bazemore.png"
+  },
+  {
+    "id": 2,
+    "name": "Avery Bradley",
+    "jersey": 20,
+    "position": "PG",
+    "age": 31,
+    "height": "6' 3\"",
+    "weight": "180 lbs",
+    "college": "Texas",
+    "contract": "",
+    "image": "../images/players/Bradley.png"
   },
   {
     "id": 7,
@@ -106,18 +130,6 @@
     "college": "Arizona",
     "contract": "",
     "image": "../images/players/Johnson.png"
-  },
-  {
-    "id": 34,
-    "name": "Deandre Jordan",
-    "jersey": 6,
-    "position": "C",
-    "age": 33,
-    "height": "6' 11\"",
-    "weight": "265 lbs",
-    "college": "Texas A&M",
-    "contract": "$2,641,691",
-    "image": "../images/players/Jordan.png"
   },
   {
     "id": 32,

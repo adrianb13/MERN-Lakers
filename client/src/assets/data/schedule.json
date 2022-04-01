@@ -641,24 +641,24 @@
         "home": false,
         "opponent": "New Orleans Pelicans",
         "game": "4:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "108-116",
+        "win": false
       },
       {
         "date": "03/29/2022",
         "home": false,
         "opponent": "Dallas Mavericks",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "110-128",
+        "win": false
       },
       {
         "date": "03/31/2022",
         "home": false,
         "opponent": "Utah Jazz",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "109-122",
+        "win": false
       },
       {
         "date": "04/01/2022",

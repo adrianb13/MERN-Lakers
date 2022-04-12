@@ -689,24 +689,24 @@
         "home": false,
         "opponent": "Golden State Warriors",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "112-128",
+        "win": false
       },
       {
         "date": "04/08/2022",
         "home": true,
         "opponent": "Oklahoma City Thunder",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "120-101",
+        "win": true
       },
       {
         "date": "04/10/2022",
         "home": false,
         "opponent": "Denver Nuggets",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "146-141",
+        "win": true
       }
     ]
   }

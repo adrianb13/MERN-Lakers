@@ -61,7 +61,7 @@ class Info extends React.Component{
     if(this.props.schedule.length !== 0){
       let schedule = this.props.schedule.sort(this.sortData)
       let recent = schedule.findIndex(games => games.score === "N/A");
-      console.log(schedule)
+      //console.log(schedule)
       console.log(recent)
       if(recent > 0){
         this.setState({
@@ -112,7 +112,7 @@ class Info extends React.Component{
               playoffloss: ploss
             })
           }
-          console.log( pwin, ploss)
+          //console.log( pwin, ploss)
         }
         if(game.score === "N/A" ){
           this.state.upcomingGames.push(game);

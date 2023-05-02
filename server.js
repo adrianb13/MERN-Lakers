@@ -31,9 +31,9 @@ const options = {
   useUnifiedTopology: true,
   useCreateIndex: true
 }
-
+//process.env.MONGODB_URI || "mongodb://localhost:27017/lakers"
 //MongoDB database connection
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost:27017/lakers", options)
+mongoose.connect("mongodb+srv://adrianb13:Mongo4me@freegeneral-aws-east.vmh3y.mongodb.net/lakers?retryWrites=true&w=majority", options)
   .then(() => {
     console.log("Mongo Connected")
   })

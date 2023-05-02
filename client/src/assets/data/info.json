@@ -1,672 +1,760 @@
 [
   {
     "id": 1,
-    "wins": 28,
-    "losses": 15,
+    "wins": 0,
+    "losses": 0,
     "upcoming": [
       { 
-        "date": "12/11/2020",
-        "home": true,
-        "opponent": "L.A. Clippers",
-        "game": "Preseason @ 7:00 PM PT",
-        "score": "87-81 (Preseason)",
-        "win": true
-      },
-      { 
-        "date": "12/13/2020",
-        "home": true,
-        "opponent": "L.A. Clippers",
-        "game": "Preseason @ 5:30 PM PT",
-        "score": "131-106 (Preseason)",
-        "win": true
-      },
-      { 
-        "date": "12/16/2020",
+        "date": "10/18/2022",
         "home": false,
-        "opponent": "Phoenix Suns",
-        "game": "Preseason @ 6:00 PM PT",
-        "score": "112-107 (Preseason)",
-        "win": true
-      }, 
-      { 
-        "date": "12/18/2020",
-        "home": false,
-        "opponent": "Phoenix Suns",
-        "game": "Preseason @ 7:30 PM PT",
-        "score": "114-113 (Preseason)",
-        "win": true
-      },
-      { 
-        "date": "12/22/2020",
-        "home": true,
-        "opponent": "L.A. Clippers",
-        "game": "7:00 PM PT",
-        "score": "109-116",
+        "opponent": "Golden State Warriors",
+        "game": "12:30 PM PT",
+        "score": "109-123",
         "win": false
       },
       { 
-        "date": "12/25/2020",
+        "date": "10/20/2022",
         "home": true,
-        "opponent": "Dallas Mavericks",
-        "game": "5:00 PM PT",
-        "score": "138-115",
-        "win": true
-      },
-      { 
-        "date": "12/27/2020",
-        "home": true,
-        "opponent": "Minnesota Timberwolves",
+        "opponent": "Los Angeles Clippers",
         "game": "7:00 PM PT",
-        "score": "127-91",
-        "win": true
+        "score": "97-103",
+        "win": false
       },
       { 
-        "date": "12/28/2020",
+        "date": "10/23/2022",
         "home": true,
         "opponent": "Portland Trailblazers",
         "game": "7:00 PM PT",
-        "score": "107-115",
+        "score": "104-106",
+        "win": false
+      }, 
+      { 
+        "date": "10/26/2022",
+        "home": false,
+        "opponent": "Denver Nuggets",
+        "game": "7:00 PM PT",
+        "score": "99-110",
         "win": false
       },
       { 
-        "date": "12/30/2020",
+        "date": "10/28/2022",
         "home": false,
-        "opponent": "San Antonio Spurs",
-        "game": "5:30 PM PT",
-        "score": "121-107",
+        "opponent": "Minnesota Timberwolves",
+        "game": "7:30 PM PT",
+        "score": "102-111",
+        "win": false
+      },
+      { 
+        "date": "10/30/2022",
+        "home": true,
+        "opponent": "Denver Nuggets",
+        "game": "7:00 PM PT",
+        "score": "121-110",
         "win": true
       },
       { 
-        "date": "01/01/2021",
+        "date": "11/02/2022",
+        "home": true,
+        "opponent": "New Orleans Pelicans",
+        "game": "7:00 PM PT",
+        "score": "120-117",
+        "win": true
+      },
+      { 
+        "date": "11/04/2022",
+        "home": true,
+        "opponent": "Utah Jazz",
+        "game": "7:00 PM PT",
+        "score": "130-116",
+        "win": false
+      },
+      { 
+        "date": "11/06/2022",
+        "home": true,
+        "opponent": "Cleveland Cavaliers",
+        "game": "6:30 PM PT",
+        "score": "100-114",
+        "win": false
+      },
+      { 
+        "date": "11/07/2022",
+        "home": false,
+        "opponent": "Utah Jazz",
+        "game": "5:30 PM PT",
+        "score": "139-116",
+        "win": false
+      },
+      { 
+        "date": "11/09/2022",
+        "home": false,
+        "opponent": "Los Angeles Clippers",
+        "game": "5:00 PM PT",
+        "score": "101-114",
+        "win": false
+      },
+      { 
+        "date": "11/11/2022",
+        "home": true,
+        "opponent": "Sacramento Kings",
+        "game": "7:30 PM PT",
+        "score": "114-120",
+        "win": false
+      },
+      { 
+        "date": "11/13/2022",
+        "home": true,
+        "opponent": "Brooklyn Nets",
+        "game": "7:30 PM PT",
+        "score": "116-103",
+        "win": true
+      },
+      { 
+        "date": "11/18/2022",
+        "home": true,
+        "opponent": "Detroit Pistons",
+        "game": "7:30 PM PT",
+        "score": "128-121",
+        "win": true
+      },
+      { 
+        "date": "11/20/2022",
+        "home": true,
+        "opponent": "San Antonio Spurs",
+        "game": "7:30 PM PT",
+        "score": "123-92",
+        "win": true
+      },
+      { 
+        "date": "11/22/2022",
+        "home": false,
+        "opponent": "Phoenix Suns",
+        "game": "7:30 PM PT",
+        "score": "105-115",
+        "win": false
+      },
+      { 
+        "date": "11/25/2022",
         "home": false,
         "opponent": "San Antonio Spurs",
+        "game": "7:30 PM PT",
+        "score": "105-94",
+        "win": true
+      },
+      { 
+        "date": "11/26/2022",
+        "home": false,
+        "opponent": "San Antonio Spurs",
+        "game": "7:00 PM PT",
+        "score": "143-138",
+        "win": true
+      },
+      { 
+        "date": "11/28/2022",
+        "home": true,
+        "opponent": "Indiana Pacers",
+        "game": "7:30 PM PT",
+        "score": "115-116",
+        "win": false
+      },
+      { 
+        "date": "11/30/2022",
+        "home": true,
+        "opponent": "Portland Trailblazers",
+        "game": "12:30 PM PT",
+        "score": "128-109",
+        "win": true
+      },
+      { 
+        "date": "12/02/2022",
+        "home": false,
+        "opponent": "Milwaukee Bucks",
+        "game": "7:30 PM PT",
+        "score": "133-129",
+        "win": true
+      },
+      { 
+        "date": "12/04/2022",
+        "home": false,
+        "opponent": "Washington Wizards",
+        "game": "4:30 PM PT",
+        "score": "130-119",
+        "win": true
+      },
+      { 
+        "date": "12/06/2022",
+        "home": false,
+        "opponent": "Cleveland Cavaliers",
+        "game": "4:30 PM PT",
+        "score": "102-116",
+        "win": false
+      },
+      { 
+        "date": "12/07/2022",
+        "home": false,
+        "opponent": "Toronto Raptors",
+        "game": "3:00 PM PT",
+        "score": "113-126",
+        "win": false
+      },
+      { 
+        "date": "12/09/2022",
+        "home": false,
+        "opponent": "Philadelphia 76ers",
+        "game": "4:30 PM PT",
+        "score": "122-133",
+        "win": false
+      },
+      { 
+        "date": "12/11/2022",
+        "home": false,
+        "opponent": "Detroit Pistons",
+        "game": "4:00 PM PT",
+        "score": "124-117",
+        "win": true
+      },
+      { 
+        "date": "12/13/2022",
+        "home": true,
+        "opponent": "Boston Celtics",
+        "game": "7:30 PM PT",
+        "score": "118-122",
+        "win": false
+      },
+      { 
+        "date": "12/16/2022",
+        "home": true,
+        "opponent": "Denver Nuggets",
+        "game": "6:30 PM PT",
+        "score": "126-108",
+        "win": true
+      },
+      { 
+        "date": "12/18/2022",
+        "home": true,
+        "opponent": "Washington Wizards",
+        "game": "7:00 PM PT",
+        "score": "119-117",
+        "win": true
+      },
+      { 
+        "date": "12/19/2022",
+        "home": false,
+        "opponent": "Phoenix Suns",
+        "game": "7:00 PM PT",
+        "score": "104-130",
+        "win": false
+      },
+      { 
+        "date": "12/21/2022",
+        "home": false,
+        "opponent": "Sacramento Kings",
+        "game": "7:00 PM PT",
+        "score": "120-134",
+        "win": false
+      },
+      { 
+        "date": "12/23/2022",
+        "home": true,
+        "opponent": "Charlotte Hornets",
         "game": "5:00 PM PT",
+        "score": "130-134",
+        "win": false
+      },
+      { 
+        "date": "12/25/2022",
+        "home": false,
+        "opponent": "Dallas Mavericks",
+        "game": "5:00 PM PT",
+        "score": "115-124",
+        "win": false
+      },
+      { 
+        "date": "12/27/2022",
+        "home": false,
+        "opponent": "Orlando Magic",
+        "game": "6:30 PM PT",
+        "score": "129-110",
+        "win": true
+      },
+      { 
+        "date": "12/28/2022",
+        "home": false,
+        "opponent": "Miami Heat",
+        "game": "4:30 PM PT",
+        "score": "98-112",
+        "win": false
+      },
+      { 
+        "date": "12/30/2022",
+        "home": false,
+        "opponent": "Atlanta Hawks",
+        "game": "5:00 PM PT",
+        "score": "130-121",
+        "win": true
+      },
+      { 
+        "date": "01/02/2023",
+        "home": false,
+        "opponent": "Charlotte Hornets",
+        "game": "12:30 PM PT",
+        "score": "121-115",
+        "win": true
+      },
+      { 
+        "date": "01/04/2023",
+        "home": true,
+        "opponent": "Miami Heat",
+        "game": "7:00 PM PT",
+        "score": "112-109",
+        "win": true
+      },
+      { 
+        "date": "01/06/2023",
+        "home": true,
+        "opponent": "Atlanta Hawks",
+        "game": "7:30 PM PT",
+        "score": "130-114",
+        "win": true
+      },
+      { 
+        "date": "01/07/2023",
+        "home": false,
+        "opponent": "Sacramento Kings",
+        "game": "5:00 PM PT",
+        "score": "136-134",
+        "win": true
+      },
+      { 
+        "date": "01/09/2023",
+        "home": false,
+        "opponent": "Denver Nuggets",
+        "game": "5:00 PM PT",
+        "score": "109-122",
+        "win": false
+      },
+      { 
+        "date": "01/12/2023",
+        "home": true,
+        "opponent": "Dallas Mavericks",
+        "game": "5:00 PM PT",
+        "score": "115-119",
+        "win": false
+      },
+      { 
+        "date": "01/15/2023",
+        "home": true,
+        "opponent": "Philadelphia 76ers",
+        "game": "7:30 PM PT",
+        "score": "112-113",
+        "win": false
+      },
+      { 
+        "date": "01/16/2023",
+        "home": true,
+        "opponent": "Houston Rockets",
+        "game": "6:30 PM PT",
+        "score": "140-132",
+        "win": true
+      },
+      { 
+        "date": "01/18/2023",
+        "home": true,
+        "opponent": "Sacramento Kings",
+        "game": "7:30 PM PT",
+        "score": "111-116",
+        "win": false
+      },
+      { 
+        "date": "01/20/2023",
+        "home": true,
+        "opponent": "Memphis Grizzlies",
+        "game": "7:00 PM PT",
+        "score": "122-121",
+        "win": true
+      },
+      { 
+        "date": "01/22/2023",
+        "home": false,
+        "opponent": "Portland Trailblazers",
+        "game": "6:30 PM PT",
+        "score": "121-112",
+        "win": true
+      },
+      { 
+        "date": "01/24/2023",
+        "home": true,
+        "opponent": "Los Angeles Clippers",
+        "game": "7:00 PM PT",
+        "score": "115-133",
+        "win": false
+      },
+      { 
+        "date": "01/25/2023",
+        "home": true,
+        "opponent": "San Antonio Spurs",
+        "game": "6:00 PM PT",
+        "score": "113-104",
+        "win": true
+      },
+      { 
+        "date": "01/28/2023",
+        "home": false,
+        "opponent": "Boston Celtics",
+        "game": "7:30 PM PT",
+        "score": "121-125",
+        "win": false
+      },
+      { 
+        "date": "01/30/2023",
+        "home": false,
+        "opponent": "Brooklyn Nets",
+        "game": "7:30 PM PT",
+        "score": "104-121",
+        "win": false
+      },
+      { 
+        "date": "01/31/2023",
+        "home": false,
+        "opponent": "New York Knicks",
+        "game": "4:00 PM PT",
+        "score": "129-123",
+        "win": true
+      },
+      {
+        "date": "02/01/2023",
+        "home": false,
+        "opponent": "Indiana Pacers",
+        "game": "3:00 PM PT",
+        "score": "112-111",
+        "win": true
+      },
+      { 
+        "date": "02/04/2023",
+        "home": false,
+        "opponent": "New Orleans Pelicans",
+        "game": "4:30 PM PT",
+        "score": "126-131",
+        "win": false
+      },
+      { 
+        "date": "02/07/2023",
+        "home": true,
+        "opponent": "Oklahoma City Thunder",
+        "game": "4:30 PM PT",
+        "score": "130-133",
+        "win": false
+      },
+      { 
+        "date": "02/09/2023",
+        "home": true,
+        "opponent": "Milwaukee Bucks",
+        "game": "4:00 PM PT",
+        "score": "106-115",
+        "win": false
+      },
+      { 
+        "date": "02/11/2023",
+        "home": false,
+        "opponent": "Golden State Warriors",
+        "game": "10:00 AM PT",
         "score": "109-103",
         "win": true
       },
       { 
-        "date": "01/03/2021",
+        "date": "02/13/2023",
         "home": false,
-        "opponent": "Memphis Grizzlies",
-        "game": "3:00 PM PT",
-        "score": "108-94",
-        "win": true
-      },
-      { 
-        "date": "01/05/2021",
-        "home": false,
-        "opponent": "Minnesota Grizzlies",
-        "game": "5:00 PM PT",
-        "score": "94-92",
-        "win": true
-      },
-      { 
-        "date": "01/07/2021",
-        "home": true,
-        "opponent": "San Antonio Spurs",
-        "game": "7:00 PM PT",
-        "score": "109-118",
+        "opponent": "Portland Trailblazers",
+        "game": "4:30 PM PT",
+        "score": "115-127",
         "win": false
       },
       { 
-        "date": "01/08/2021",
+        "date": "02/15/2023",
         "home": true,
-        "opponent": "Chicago Bulls",
+        "opponent": "New Orleans Pelicans",
         "game": "7:00 PM PT",
-        "score": "117-115",
-        "win": true
-      },
-      { 
-        "date": "01/10/2021",
-        "home": false,
-        "opponent": "Houston Rockets",
-        "game": "4:00 PM PT",
         "score": "120-102",
         "win": true
       },
       { 
-        "date": "01/12/2021",
-        "home": false,
-        "opponent": "Houston Rockets",
-        "game": "5:00 PM PT",
-        "score": "117-100",
-        "win": true
-      },
-      { 
-        "date": "01/13/2021",
-        "home": false,
-        "opponent": "Oklahoma City Thunder",
-        "game": "5:00 PM PT",
-        "score": "128-99",
-        "win": true
-      },
-      { 
-        "date": "01/15/2021",
-        "home": true,
-        "opponent": "New Orleans Pelicans",
-        "game": "7:00 PM PT",
-        "score": "112-95",
-        "win": true
-      },
-      { 
-        "date": "01/18/2021",
+        "date": "02/23/2023",
         "home": true,
         "opponent": "Golden State Warriors",
+        "game": "5:30 PM PT",
+        "score": "124-111",
+        "win": true
+      },
+      { 
+        "date": "02/26/2023",
+        "home": false,
+        "opponent": "Dallas Mavericks",
         "game": "7:00 PM PT",
-        "score": "113-115",
+        "score": "111-108",
+        "win": true
+      },
+      { 
+        "date": "02/28/2023",
+        "home": false,
+        "opponent": "Memphis Grizzlies",
+        "game": "7:00 PM PT",
+        "score": "109-121",
         "win": false
       },
       { 
-        "date": "01/21/2021",
+        "date": "03/01/2023",
         "home": false,
-        "opponent": "Milwaukee Bucks",
-        "game": "4:00 PM PT",
-        "score": "113-106",
+        "opponent": "Oklahoma City Thunder",
+        "game": "5:30 PM PT",
+        "score": "123-117",
         "win": true
       },
       { 
-        "date": "01/23/2021",
+        "date": "03/03/2023",
+        "home": true,
+        "opponent": "Minnesota Timberwolves",
+        "game": "7:00 PM PT",
+        "score": "102-110",
+        "win": false
+      },
+      { 
+        "date": "03/05/2023",
+        "home": true,
+        "opponent": "Golden State Warriors",
+        "game": "7:00 PM PT",
+        "score": "113-105",
+        "win": true
+      },
+      {
+        "date": "03/07/2023",
+        "home": true,
+        "opponent": "Memphis Grizzlies",
+        "game": "7:00 PM PT",
+        "score": "112-103",
+        "win": true
+      },
+      {
+        "date": "03/10/2023",
+        "home": true,
+        "opponent": "Toronto Raptors",
+        "game": "7:00 PM PT",
+        "score": "122-112",
+        "win": true
+      },
+      { 
+        "date": "03/12/2023",
+        "home": true,
+        "opponent": "New York Knicks",
+        "game": "7:00 PM PT",
+        "score": "108-112",
+        "win": false
+      },
+      { 
+        "date": "03/14/2023",
         "home": false,
+        "opponent": "New Orleans Pelicans",
+        "game": "5:30 PM PT",
+        "score": "123-108",
+        "win": true
+      },
+      { 
+        "date": "03/15/2023",
+        "home": false,
+        "opponent": "Houston Rockets",
+        "game": "5:30 PM PT",
+        "score": "110-114",
+        "win": false
+      },
+      { 
+        "date": "03/17/2023",
+        "home": true,
+        "opponent": "Dallas Mavericks",
+        "game": "5:00 PM PT",
+        "score": "111-110",
+        "win": false
+      },
+      { 
+        "date": "03/19/2023",
+        "home": true,
+        "opponent": "Orlando Magic",
+        "game": "7:30 PM PT",
+        "score": "111-105",
+        "win": true
+      },
+      { 
+        "date": "03/22/2023",
+        "home": true,
+        "opponent": "Phoenix Suns",
+        "game": "5:00 PM PT",
+        "score": "122-111",
+        "win": true
+      },
+      { 
+        "date": "03/24/2023",
+        "home": true,
+        "opponent": "Oklahoma City Thunder",
+        "game": "4:30 PM PT",
+        "score": "116-111",
+        "win": true
+      },
+      { 
+        "date": "03/26/2023",
+        "home": true,
         "opponent": "Chicago Bulls",
         "game": "5:00 PM PT",
-        "score": "101-90",
-        "win": true
-      },
-      { 
-        "date": "01/25/2021",
-        "home": false,
-        "opponent": "Cleveland Cavaliers",
-        "game": "4:30 PM PT",
-        "score": "115-108",
-        "win": true
-      },
-      { 
-        "date": "01/27/2021",
-        "home": false,
-        "opponent": "Philadelphia 76ers",
-        "game": "4:30 PM PT",
-        "score": "106-107",
+        "score": "108-118",
         "win": false
       },
-      { 
-        "date": "01/28/2021",
+      {
+        "date": "03/29/2023",
         "home": false,
-        "opponent": "Detroit Pistons",
-        "game": "4:00 PM PT",
-        "score": "92-107",
-        "win": false
-      },
-      { 
-        "date": "01/30/2021",
-        "home": false,
-        "opponent": "Boston Celtics",
-        "game": "5:30 PM PT",
-        "score": "96-95",
-        "win": true
-      },
-      { 
-        "date": "02/01/2021",
-        "home": false,
-        "opponent": "Atlanta Hawks",
+        "opponent": "Chicago Bulls",
         "game": "4:30 PM PT",
-        "score": "107-99",
+        "score": "121-110",
         "win": true
       },
-      { 
-        "date": "02/04/2021",
-        "home": true,
-        "opponent": "Denver Nuggets",
-        "game": "7:00 PM PT",
-        "score": "114-93",
-        "win": true
-      },
-      { 
-        "date": "02/06/2021",
-        "home": true,
-        "opponent": "Detroit Pistons",
-        "game": "7:00 PM PT",
-        "score": "135-129",
-        "win": true
-      },
-      { 
-        "date": "02/08/2021",
-        "home": true,
-        "opponent": "Oklahoma City Thunder",
-        "game": "7:00 PM PT",
-        "score": "119-112",
-        "win": true
-      },
-      { 
-        "date": "02/10/2021",
-        "home": true,
-        "opponent": "Oklahoma City Thunder",
-        "game": "7:00 PM PT",
-        "score": "114-113",
-        "win": true
-      },
-      { 
-        "date": "02/12/2021",
-        "home": true,
-        "opponent": "Minnesota Grizzlies",
-        "game": "7:00 PM PT",
-        "score": "115-105",
-        "win": true
-      },
-      { 
-        "date": "02/14/2021",
-        "home": false,
-        "opponent": "Denver Nuggets",
-        "game": "4:30 PM PT",
-        "score": "105-122",
-        "win": false
-      },
-      { 
-        "date": "02/16/2021",
+      {
+        "date": "03/31/2023",
         "home": false,
         "opponent": "Minnesota Timberwolves",
         "game": "5:00 PM PT",
-        "score": "112-104",
-        "win": true
-      },
-      { 
-        "date": "02/18/2021",
-        "home": true,
-        "opponent": "Brooklyn Nets",
-        "game": "5:00 PM PT",
-        "score": "98-109",
-        "win": false
-      },
-      { 
-        "date": "02/20/2021",
-        "home": true,
-        "opponent": "Miami Heat",
-        "game": "5:30 PM PT",
-        "score": "94-96",
-        "win": false
-      },
-      { 
-        "date": "02/22/2021",
-        "home": true,
-        "opponent": "Washington D.C. Wizards",
-        "game": "7:00 PM PT",
-        "score": "124-127",
-        "win": false
-      },
-      { 
-        "date": "02/24/2021",
-        "home": false,
-        "opponent": "Utah Jazz",
-        "game": "7:00 PM PT",
-        "score": "89-114",
-        "win": false
-      },
-      { 
-        "date": "02/26/2021",
-        "home": true,
-        "opponent": "Portland Trailblazers",
-        "game": "7:00 PM PT",
-        "score": "102-93",
-        "win": true
-      },
-      { 
-        "date": "02/28/2021",
-        "home": true,
-        "opponent": "Golden State Warriors",
-        "game": "5:00 PM PT",
-        "score": "117-91",
-        "win": true
-      },
-      { 
-        "date": "03/02/2021",
-        "home": true,
-        "opponent": "Phoenix Suns",
-        "game": "7:00 PM PT",
-        "score": "104-114",
-        "win": false
-      },
-      { 
-        "date": "03/03/2021",
-        "home": false,
-        "opponent": "Sacramento Nuggets",
-        "game": "7:00 PM PT",
-        "score": "120-123",
-        "win": false
-      },
-      { 
-        "date": "03/12/2021",
-        "home": true,
-        "opponent": "Indianapolis Pacers",
-        "game": "7:30 PM PT",
-        "score": "105-100",
-        "win": true
-      },
-      { 
-        "date": "03/15/2021",
-        "home": false,
-        "opponent": "Golden State Warriors",
-        "game": "7:30 PM PT",
-        "score": "128-97",
-        "win": true
-      },
-      { 
-        "date": "03/16/2021",
-        "home": true,
-        "opponent": "Minnesota Timberwolves",
-        "game": "7:30 PM PT",
-        "score": "137-121",
-        "win": true
-      },
-      { 
-        "date": "03/18/2021",
-        "home": true,
-        "opponent": "Charlotte Hornets",
-        "game": "7:30 PM PT",
-        "score": "116-105",
-        "win": true
-      },
-      { 
-        "date": "03/20/2021",
-        "home": true,
-        "opponent": "Atlanta Hawks",
-        "game": "12:30 PM PT",
-        "score": "94-99",
-        "win": false
-      },
-      { 
-        "date": "03/21/2021",
-        "home": false,
-        "opponent": "Phoenix Suns",
-        "game": "7:00 PM PT",
-        "score": "94-111",
-        "win": false
-      },
-      { 
-        "date": "03/23/2021",
-        "home": false,
-        "opponent": "New Orleans Pelicans",
-        "game": "4:30 PM PT",
-        "score": "111-128",
-        "win": false
-      },
-      { 
-        "date": "03/25/2021",
-        "home": true,
-        "opponent": "Philadelphia 76ers",
-        "game": "7:00 PM PT",
-        "score": "101-109",
-        "win": false
-      },
-      { 
-        "date": "03/26/2021",
-        "home": true,
-        "opponent": "Cleveland Cavaliers",
-        "game": "7:30 PM PT",
-        "score": "100-86",
-        "win": true
-      },
-      { 
-        "date": "03/28/2021",
-        "home": true,
-        "opponent": "Orlando Magic",
-        "game": "7:00 PM PT",
-        "score": "96-93",
-        "win": true
-      },
-      { 
-        "date": "03/31/2021",
-        "home": true,
-        "opponent": "Milwaukee Bucks",
-        "game": "7:00 PM PT",
-        "score": "97-112",
-        "win": false
-      },
-      {
-        "date": "04/02/2021",
-        "home": false,
-        "opponent": "Sacramento Kings",
-        "game": "7:00 PM PT",
-        "score": "115-94",
-        "win": true
-      },
-      { 
-        "date": "04/04/2021",
-        "home": false,
-        "opponent": "Los Angeles Clippers",
-        "game": "12:30 PM PT",
-        "score": "86-104",
-        "win": false
-      },
-      { 
-        "date": "04/06/2021",
-        "home": false,
-        "opponent": "Toronto Raptors",
-        "game": "4:30 PM PT",
-        "score": "110-101",
-        "win": true
-      },
-      { 
-        "date": "04/08/2021",
-        "home": false,
-        "opponent": "Miami Heat",
-        "game": "4:30 PM PT",
-        "score": "104-110",
-        "win": false
-      },
-      { 
-        "date": "04/10/2021",
-        "home": false,
-        "opponent": "Brooklyn Nets",
-        "game": "5:30 PM PT",
-        "score": "126-101",
-        "win": true
-      },
-      { 
-        "date": "04/12/2021",
-        "home": false,
-        "opponent": "New York Knicks",
-        "game": "4:30 PM PT",
-        "score": "96-111",
-        "win": false
-      },
-      { 
-        "date": "04/13/2021",
-        "home": false,
-        "opponent": "Charlotte Hornets",
-        "game": "5:00 PM PT",
-        "score": "101-93",
-        "win": true
-      },
-      { 
-        "date": "04/15/2021",
-        "home": true,
-        "opponent": "Boston Celtics",
-        "game": "7:00 PM PT",
-        "score": "113-121",
-        "win": false
-      },
-      { 
-        "date": "04/17/2021",
-        "home": true,
-        "opponent": "Utah Jazz",
-        "game": "1:30 PM PT",
-        "score": "127-115",
-        "win": true
-      },
-      { 
-        "date": "04/19/2021",
-        "home": true,
-        "opponent": "Utah Jazz",
-        "game": "7:00 PM PT",
-        "score": "97-111",
-        "win": false
-      },
-      { 
-        "date": "04/22/2021",
-        "home": false,
-        "opponent": "Dallas Mavericks",
-        "game": "6:30 PM PT",
-        "score": "110-115",
-        "win": false
-      },
-      { 
-        "date": "04/24/2021",
-        "home": false,
-        "opponent": "Dallas Mavericks",
-        "game": "4:30 PM PT",
-        "score": "93-108",
-        "win": false
-      },
-      { 
-        "date": "04/26/2021",
-        "home": false,
-        "opponent": "Orlando Magic",
-        "game": "4:00 PM PT",
-        "score": "114-103",
+        "score": "123-111",
         "win": true
       },
       {
-        "date": "04/28/2021",
+        "date": "04/02/2023",
         "home": false,
-        "opponent": "Washington Wizards",
-        "game": "4:00 PM PT",
-        "score": "107-116",
-        "win": false
-      },
-      {
-        "date": "04/30/2021",
-        "home": true,
-        "opponent": "Sacramento Kings",
-        "game": "7:30 PM PT",
-        "score": "106-110",
-        "win": false
-      },
-      { 
-        "date": "05/02/2021",
-        "home": true,
-        "opponent": "Toronto Raptors",
-        "game": "7:00 PM PT",
-        "score": "114-121",
-        "win": false
-      },
-      { 
-        "date": "05/03/2021",
-        "home": true,
-        "opponent": "Denver Nuggets",
-        "game": "7:00 PM PT",
-        "score": "93-89",
-        "win": true
-      },
-      { 
-        "date": "05/06/2021",
-        "home": false,
-        "opponent": "Los Angeles Clippers",
-        "game": "7:00 PM PT",
-        "score": "94-118",
-        "win": false
-      },
-      { 
-        "date": "05/07/2021",
-        "home": false,
-        "opponent": "Portland Trailblazers",
-        "game": "7:00 PM PT",
-        "score": "101-106",
-        "win": false
-      },
-      { 
-        "date": "05/09/2021",
-        "home": true,
-        "opponent": "Phoenix Suns",
-        "game": "7:00 PM PT",
-        "score": "123-110",
-        "win": true
-      },
-      { 
-        "date": "05/11/2021",
-        "home": true,
-        "opponent": "New York Knicks",
-        "game": "7:30 PM PT",
-        "score": "101-99",
-        "win": true
-      },
-      { 
-        "date": "05/12/2021",
-        "home": true,
         "opponent": "Houston Rockets",
-        "game": "7:30 PM PT",
-        "score": "124-122",
-        "win": true
-      },
-      { 
-        "date": "05/15/2021",
-        "home": false,
-        "opponent": "Indianapolis Pacers",
-        "game": "7:30 PM PT",
-        "score": "122-115",
+        "game": "4:00 PM PT",
+        "score": "134-109",
         "win": true
       },
       {
-        "date": "05/16/2021",
+        "date": "04/04/2023",
         "home": false,
-        "opponent": "New Orleans Pelicans",
-        "game": "6:00 PM PT",
-        "score": "110-98",
+        "opponent": "Utah Jazz",
+        "game": "7:00 PM PT",
+        "score": "135-133",
         "win": true
       },
       {
-        "date": "05/19/2021",
+        "date": "04/05/2023",
+        "home": false,
+        "opponent": "Los Angeles Clippers",
+        "game": "4:00 PM PT",
+        "score": "125-118",
+        "win": false
+      },
+      {
+        "date": "04/07/2023",
+        "home": true,
+        "opponent": "Phoenix Suns",
+        "game": "4:30 PM PT",
+        "score": "121-107",
+        "win": true
+      },
+      {
+        "date": "04/09/2023",
+        "home": true,
+        "opponent": "Utah Jazz",
+        "game": "7:00 PM PT",
+        "score": "128-117",
+        "win": true
+      },
+      {
+        "date": "04/11/2023",
+        "home": true,
+        "opponent": "Minnesota Timberwolves",
+        "game": "7:30 PM PT - Playoffs Play In",
+        "score": "108-102 - Playoffs Play In",
+        "win": true
+      },
+      {
+        "date": "04/16/2023",
+        "home": false,
+        "opponent": "Memphis Grizzlies",
+        "game": "12:30 PM PT - Playoffs Game 1",
+        "score": "128-112 - Playoffs Game 1",
+        "win": true
+      },
+      {
+        "date": "04/19/2023",
+        "home": false,
+        "opponent": "Memphis Grizzlies",
+        "game": "7:30 PM PT - Playoffs Game 2",
+        "score": "103-93 - Playoffs Game 2",
+        "win": false
+      },
+      {
+        "date": "04/22/2023",
+        "home": true,
+        "opponent": "Memphis Grizzlies",
+        "game": "7:00 PM PT - Playoffs Game 3",
+        "score": "111-101 - Playoffs Game 3",
+        "win": true
+      },
+      {
+        "date": "04/24/2023",
+        "home": true,
+        "opponent": "Memphis Grizzlies",
+        "game": "7:30 PM PT - Playoffs Game 4",
+        "score": "117-111 - Playoffs Game 4",
+        "win": true
+      },
+      {
+        "date": "04/26/2023",
+        "home": false,
+        "opponent": "Memphis Grizzlies",
+        "game": "7:00 PM PT - Playoffs Game 5",
+        "score": "99-116 - Playoffs Game 5",
+        "win": false
+      },
+      {
+        "date": "04/28/2023",
+        "home": true,
+        "opponent": "Memphis Grizzlies",
+        "game": "7:00 PM PT - Playoffs Game 6",
+        "score": "125-85 - Playoffs Game 6",
+        "win": true
+      },
+      {
+        "date": "05/02/2023",
+        "home": false,
+        "opponent": "Golden State Warriors",
+        "game": "7:00 PM PT - Playoffs Game 1",
+        "score": "N/A",
+        "win": null
+      },
+      {
+        "date": "05/04/2023",
+        "home": false,
+        "opponent": "Golden State Warriors",
+        "game": "6:00 PM PT - Playoffs Game 2",
+        "score": "N/A",
+        "win": null
+      },
+      {
+        "date": "05/06/2023",
         "home": true,
         "opponent": "Golden State Warriors",
-        "game": "7:00 PM PT",
-        "score": "103-100 (Playoffs Play-In)",
-        "win": true
+        "game": "5:30 PM PT - Playoffs Game 3",
+        "score": "N/A",
+        "win": null
       },
       {
-        "date": "05/23/2021",
-        "home": false,
-        "opponent": "Phoenix Suns",
-        "game": "12:30 PM PT - Playoffs Game 1",
-        "score": "90-99 - Playoffs Game 1",
-        "win": false
-      },
-      {
-        "date": "05/25/2021",
-        "home": false,
-        "opponent": "Phoenix Suns",
-        "game": "7:00 PM PT - Playoffs Game 2",
-        "score": "109-102 - Playoffs Game 2",
-        "win": true
-      },
-      {
-        "date": "05/27/2021",
+        "date": "05/08/2023",
         "home": true,
-        "opponent": "Phoenix Suns",
-        "game": "7:00 PM PT - Playoffs Game 3",
-        "score": "109-95 - Playoffs Game 3",
-        "win": true
-      },
-      {
-        "date": "05/30/2021",
-        "home": true,
-        "opponent": "Phoenix Suns",
+        "opponent": "Golden State Warriors",
         "game": "7:00 PM PT - Playoffs Game 4",
-        "score": "92-100 - Playoffs Game 4",
-        "win": false
+        "score": "N/A",
+        "win": null
       },
       {
-        "date": "06/01/2021",
-        "home": false,
-        "opponent": "Phoenix Suns",
-        "game": "7:00 PM PT - Playoffs Game 5",
-        "score": "85-115 - Playoffs Game 5",
-        "win": false
-      },
-      {
-        "date": "06/03/2021",
+        "date": "05/10/2023",
         "home": true,
-        "opponent": "Phoenix Suns",
-        "game": "7:00 PM PT - Playoffs Game 6",
-        "score": "100-113 - Playoffs Game 6",
-        "win": false
+        "opponent": "Golden State Warriors",
+        "game": "7:00 PM PT - Playoffs Game 5",
+        "score": "N/A",
+        "win": null
       }
     ]
   }

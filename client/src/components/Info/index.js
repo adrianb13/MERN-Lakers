@@ -62,7 +62,7 @@ class Info extends React.Component{
       let schedule = this.props.schedule.sort(this.sortData)
       let recent = schedule.findIndex(games => games.score === "N/A");
       //console.log(schedule)
-      console.log(recent)
+      //console.log(recent)
       if(recent > 0){
         this.setState({
           lastGame: this.props.schedule[(recent-1)],
@@ -95,6 +95,12 @@ class Info extends React.Component{
           if(game.score.includes("Game 1")){
             pwin = 0;
             ploss = 0;
+            this.setState({
+              seriesWin: false,
+              playoffwin: 0,
+              playoffloss: 0
+            })
+            //console.log("game 1 - " + pwin + " " + ploss);
           }
           if(game.win === true){
             pwin++
@@ -214,16 +220,23 @@ class Info extends React.Component{
 
                             ) : (
                               <div>
-                                {this.state.playoffwin > this.state.playoffloss ? (
-                                  <div>Lakers Lead Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
-                                ) : ( 
-                                  <div>
-                                    {this.state.playoffwin < this.state.playoffloss ? (
-                                      <div>Lakers Lost the Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
-                                    ) : (
-                                      <div>Series Tied ({this.state.playoffwin} - {this.state.playoffloss})</div>
-                                    )}
-                                  </div>
+                                {this.state.playoffloss === 4 ? (
+                                  <div>Lakers Lost The Series</div>
+                                ) : (
+
+                                <div>
+                                  {this.state.playoffwin > this.state.playoffloss ? (
+                                    <div>Lakers Lead Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
+                                  ) : ( 
+                                    <div>
+                                      {this.state.playoffwin < this.state.playoffloss ? (
+                                        <div>Lakers Losing The Series ({this.state.playoffwin} - {this.state.playoffloss})</div>
+                                      ) : (
+                                        <div>Series Tied ({this.state.playoffwin} - {this.state.playoffloss})</div>
+                                      )}
+                                    </div>
+                                  )}
+                                </div>
                                 )}
                               </div>
                             )}

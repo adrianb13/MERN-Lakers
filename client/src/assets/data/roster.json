@@ -9,7 +9,7 @@
     "weight": "231 lbs",
     "college": "Texas",
     "contract": "$10,300,000",
-    "image": null
+    "image": "../images/players/Bamba.png"
   },
   {
     "id": 40,
@@ -21,7 +21,7 @@
     "weight": "187 lbs",
     "college": "Florida State",
     "contract": "$15,558,035",
-    "image": null
+    "image": "../images/players/Beasley.png"
   },
   {
     "id": 41,
@@ -33,7 +33,7 @@
     "weight": "215 lbs",
     "college": "Oregon",
     "contract": "$1,836,090",
-    "image": null
+    "image": "../images/players/TBrown.png"
   },
   {
     "id": 42,
@@ -45,7 +45,7 @@
     "weight": "190 lbs",
     "college": "Michigan State",
     "contract": "$1,017,781",
-    "image": null
+    "image": "../images/players/Christie.png"
   },
   {
     "id": 7,
@@ -81,19 +81,19 @@
     "weight": "230 lbs",
     "college": "Gonzaga",
     "contract": "$6,263,188",
-    "image": null
+    "image": "../images/players/Hachimura.png"
   },
   {
     "id": 44,
     "name": "Shaquille Harrison",
-    "jersey": 0,
+    "jersey": 11,
     "position": "G",
     "age": 29,
     "height": "6' 4\"",
     "weight": "195 lbs",
     "college": "Tulsa",
     "contract": " ",
-    "image": null
+    "image": "../images/players/Harrison.png"
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "weight": "170 lbs",
     "college": "Vanderbilt",
     "contract": " ",
-    "image": null
+    "image": "../images/players/PippenJr.png"
   },
   {
     "id": 35,
@@ -141,7 +141,7 @@
     "weight": "193 lbs",
     "college": "Ohio State",
     "contract": "$31,377,750",
-    "image": null
+    "image": "../images/players/Russell.png"
   },
   {
     "id": 47,
@@ -165,7 +165,7 @@
     "weight": "220 lbs",
     "college": "Syracuse",
     "contract": " ",
-    "image": null
+    "image": "../images/players/Swider.png"
   },
   {
     "id": 49,
@@ -177,7 +177,7 @@
     "weight": "254 lbs",
     "college": "Texas",
     "contract": " ",
-    "image": null
+    "image": "../images/players/Thompson.png"
   },
   {
     "id": 50,
@@ -189,7 +189,7 @@
     "weight": "214 lbs",
     "college": "Kentucky",
     "contract": "$4,374,000",
-    "image": null
+    "image": "../images/players/Vanderbilt.png"
   },
   {
     "id": 51,
@@ -201,6 +201,6 @@
     "weight": "204 lbs",
     "college": "Miami",
     "contract": "$6,479,000",
-    "image": null
+    "image": "../images/players/Walker.png"
   }
 ]

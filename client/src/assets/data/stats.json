@@ -3,7 +3,7 @@
     "id": 39,
     "name": "Mo Bamba",
     "jersey": 12,
-    "image": null,
+    "image": "../images/players/Bamba.png",
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -50,7 +50,7 @@
     "id": 40,
     "name": "Malik Beasley",
     "jersey": 5,
-    "image": null,
+    "image": "../images/players/Beasley.png",
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -97,7 +97,7 @@
     "id": 41,
     "name": "Troy Brown Jr.",
     "jersey": 7,
-    "image": null,
+    "image": "../images/players/TBrown.png",
     "game": {
       "PTS": 3,
       "MIN": 12,
@@ -143,7 +143,7 @@
   {
     "id": 42,
     "name": "Max Christie",
-    "image": null,
+    "image": "../images/players/Christie.png",
     "jersey": 10,
     "game": {
       "PTS": 0,
@@ -237,7 +237,7 @@
   {
     "id": 38,
     "name": "Wenyen Gabriel",
-    "image": null,
+    "image": "../images/players/Gabriel.png",
     "jersey": 35,
     "game": {
       "PTS": 0,
@@ -284,7 +284,7 @@
   {
     "id": 43,
     "name": "Rui Hachimura",
-    "image": null,
+    "image": "../images/players/Hachimura.png",
     "jersey": 28,
     "game": {
       "PTS": 6,
@@ -331,8 +331,8 @@
   {
     "id": 44,
     "name": "Shaquille Harrison",
-    "image": null,
-    "jersey": 0,
+    "image": "../images/players/Harrison.png",
+    "jersey": 11,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -425,7 +425,7 @@
   {
     "id": 45,
     "name": "Scotty Pippen Jr.",
-    "image": null,
+    "image": "../images/players/PippenJr.png",
     "jersey": 14,
     "game": {
       "PTS": 0,
@@ -519,7 +519,7 @@
   {
     "id": 46,
     "name": "D'Angelo Russell",
-    "image": null,
+    "image": "../images/players/Russell.png",
     "jersey": 1,
     "game": {
       "PTS": 19,
@@ -613,7 +613,7 @@
   {
     "id": 48,
     "name": "Cole Swider",
-    "image": null,
+    "image": "../images/players/Swider.png",
     "jersey": 20,
     "game": {
       "PTS": 0,
@@ -660,7 +660,7 @@
   {
     "id": 49,
     "name": "Tristan Thompson",
-    "image": null,
+    "image": "../images/players/Thompson.png",
     "jersey": 9,
     "game": {
       "PTS": 0,
@@ -706,8 +706,8 @@
   },
   {
     "id": 50,
-    "name": "Jared Vanderbilt",
-    "image": null,
+    "name": "Jarred Vanderbilt",
+    "image": "../images/players/Vanderbilt.png",
     "jersey": 2,
     "game": {
       "PTS": 8,
@@ -754,7 +754,7 @@
   {
     "id": 51,
     "name": "Lonnie Walker IV",
-    "image": null,
+    "image": "../images/players/Walker.png",
     "jersey": 4,
     "game": {
       "PTS": 0,

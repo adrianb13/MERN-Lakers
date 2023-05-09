@@ -737,16 +737,16 @@
         "home": true,
         "opponent": "Golden State Warriors",
         "game": "5:30 PM PT - Playoffs Game 3",
-        "score": "N/A",
-        "win": null
+        "score": "127-97 - Playoffs Game 3",
+        "win": true
       },
       {
         "date": "05/08/2023",
         "home": true,
         "opponent": "Golden State Warriors",
         "game": "7:00 PM PT - Playoffs Game 4",
-        "score": "N/A",
-        "win": null
+        "score": "104-101 - Playoffs Game 4",
+        "win": true
       },
       {
         "date": "05/10/2023",

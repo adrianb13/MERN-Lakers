@@ -761,6 +761,46 @@
         "home": true,
         "opponent": "Golden State Warriors",
         "game": "7:00 PM PT - Playoffs Game 6",
+        "score": "122-101",
+        "win": true
+      },
+      {
+        "date": "05/16/2023",
+        "home": false,
+        "opponent": "Denver Nuggets",
+        "game": "5:30 PM PT - Playoffs Game 1",
+        "score": "N/A",
+        "win": null
+      },
+      {
+        "date": "05/18/2023",
+        "home": false,
+        "opponent": "Denver Nuggets",
+        "game": "5:30 PM PT - Playoffs Game 2",
+        "score": "N/A",
+        "win": null
+      },
+      {
+        "date": "05/20/2023",
+        "home": true,
+        "opponent": "Denver Nuggets",
+        "game": "5:30 PM PT - Playoffs Game 3",
+        "score": "N/A",
+        "win": null
+      },
+      {
+        "date": "05/22/2023",
+        "home": true,
+        "opponent": "Denver Nuggets",
+        "game": "5:30 PM PT - Playoffs Game 4",
+        "score": "N/A",
+        "win": null
+      },
+      {
+        "date": "05/24/2023",
+        "home": false,
+        "opponent": "Denver Nuggets",
+        "game": "5:30 PM PT - Playoffs Game 5",
         "score": "N/A",
         "win": null
       }

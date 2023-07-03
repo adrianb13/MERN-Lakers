@@ -1,41 +1,5 @@
 [
   {
-    "id": 39,
-    "name": "Mo Bamba",
-    "jersey": 12,
-    "position": "C",
-    "age": 24,
-    "height": "7' 0\"",
-    "weight": "231 lbs",
-    "college": "Texas",
-    "contract": "$10,300,000",
-    "image": "../images/players/Bamba.png"
-  },
-  {
-    "id": 40,
-    "name": "Malik Beasley",
-    "jersey": 5,
-    "position": "SG",
-    "age": 26,
-    "height": "6' 4\"",
-    "weight": "187 lbs",
-    "college": "Florida State",
-    "contract": "$15,558,035",
-    "image": "../images/players/Beasley.png"
-  },
-  {
-    "id": 41,
-    "name": "Troy Brown Jr.",
-    "jersey": 7,
-    "position": "SF",
-    "age": 23,
-    "height": "6' 6\"",
-    "weight": "215 lbs",
-    "college": "Oregon",
-    "contract": "$1,836,090",
-    "image": "../images/players/TBrown.png"
-  },
-  {
     "id": 42,
     "name": "Max Christie",
     "jersey": 10,
@@ -60,18 +24,6 @@
     "image": "../images/players/Davis.png"
   },
   {
-    "id": 38,
-    "name": "Wenyen Gabriel",
-    "jersey": 35,
-    "position": "F",
-    "age": 26,
-    "height": "6' 9\"",
-    "weight": "205 lbs",
-    "college": "Kentucky",
-    "contract": "1,878,720",
-    "image": "../images/players/Gabriel.png"
-  },
-  {
     "id": 43,
     "name": "Rui Hachimura",
     "jersey": 28,
@@ -84,16 +36,16 @@
     "image": "../images/players/Hachimura.png"
   },
   {
-    "id": 44,
-    "name": "Shaquille Harrison",
-    "jersey": 11,
-    "position": "G",
-    "age": 29,
-    "height": "6' 4\"",
-    "weight": "195 lbs",
-    "college": "Tulsa",
-    "contract": " ",
-    "image": "../images/players/Harrison.png"
+    "id": 52,
+    "name": "Jaxson Hayes",
+    "jersey": 10,
+    "position": "C",
+    "age": 23,
+    "height": "7' 0\"",
+    "weight": "220 lbs",
+    "college": "Texas",
+    "contract": "$6,263,188",
+    "image": "../images/players/Hayes.png"
   },
   {
     "id": 12,
@@ -108,16 +60,16 @@
     "image": "../images/players/James.png"
   },
   {
-    "id": 45,
-    "name": "Scotty Pippen Jr.",
-    "jersey": 14,
-    "position": "G",
-    "age": 22,
-    "height": "6' 2\"",
-    "weight": "170 lbs",
-    "college": "Vanderbilt",
+    "id": 53,
+    "name": "Taurean Prince",
+    "jersey": null,
+    "position": "PF",
+    "age": 29,
+    "height": "6' 6\"",
+    "weight": "218 lbs",
+    "college": "Baylor",
     "contract": " ",
-    "image": "../images/players/PippenJr.png"
+    "image": "../images/players/Prince.png"
   },
   {
     "id": 35,
@@ -132,6 +84,18 @@
     "image": "../images/players/Reaves.png"
   },
   {
+    "id": 54,
+    "name": "Cam Reddish",
+    "jersey": null,
+    "position": "SF",
+    "age": 23,
+    "height": "6' 8\"",
+    "weight": "217 lbs",
+    "college": "Duke",
+    "contract": " ",
+    "image": "../images/players/Reddish.png"
+  },
+  {
     "id": 46,
     "name": "D'Angelo Russell",
     "jersey": 1,
@@ -142,18 +106,6 @@
     "college": "Ohio State",
     "contract": "$31,377,750",
     "image": "../images/players/Russell.png"
-  },
-  {
-    "id": 47,
-    "name": "Dennis Schroder",
-    "jersey": 17,
-    "position": "PG",
-    "age": 29,
-    "height": "6' 1\"",
-    "weight": "172 lbs",
-    "college": " ",
-    "contract": "$1,836,090",
-    "image": "../images/players/Schroder.png"
   },
   {
     "id": 48,
@@ -168,18 +120,6 @@
     "image": "../images/players/Swider.png"
   },
   {
-    "id": 49,
-    "name": "Tristan Thompson",
-    "jersey": 9,
-    "position": "C",
-    "age": 32,
-    "height": "6' 9\"",
-    "weight": "254 lbs",
-    "college": "Texas",
-    "contract": " ",
-    "image": "../images/players/Thompson.png"
-  },
-  {
     "id": 50,
     "name": "Jarred Vanderbilt",
     "jersey": 2,
@@ -192,15 +132,15 @@
     "image": "../images/players/Vanderbilt.png"
   },
   {
-    "id": 51,
-    "name": "Lonnie Walker IV",
-    "jersey": 4,
-    "position": "G",
-    "age": 24,
-    "height": "6' 4\"",
-    "weight": "204 lbs",
-    "college": "Miami",
-    "contract": "$6,479,000",
-    "image": "../images/players/Walker.png"
+    "id": 55,
+    "name": "Gabe Vincent",
+    "jersey": null,
+    "position": "PG",
+    "age": 27,
+    "height": "6' 3\"",
+    "weight": "200 lbs",
+    "college": "UC Santa Barbara",
+    "contract": "$11,000,000",
+    "image": "../images/players/Vincent.png"
   }
 ]

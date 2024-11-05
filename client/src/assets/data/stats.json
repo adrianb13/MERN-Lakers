@@ -188,6 +188,100 @@
     }
   },
   {
+    "id": 56,
+    "name": "Jalen Hood-Schifino",
+    "image": "../images/players/JHS.png",
+    "jersey": 0,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    }
+  },
+  {
+    "id": 57,
+    "name": "Bronny James",
+    "image": "../images/players/Bronny.png",
+    "jersey": 9,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    }
+  },
+  {
     "id": 12,
     "name": "Lebron James",
     "image": "../images/players/James.png",
@@ -235,10 +329,10 @@
     }
   },
   {
-    "id": 53,
-    "name": "Taurean Prince",
-    "image": "../images/players/Prince.png",
-    "jersey": null,
+    "id": 58,
+    "name": "Dalton Knecht",
+    "image": "../images/players/Knecht.png",
+    "jersey": 4,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -254,7 +348,7 @@
     },
     "season": {
       "GP": 0,
-      "PPG": 0,  
+      "PPG": 0,
       "MIN": 0,
       "FGP": 0,
       "P3P": 0,
@@ -267,18 +361,159 @@
       "TO": 0
     },
     "career": {
-      "GP": 424,
-      "PPG": 10.4,  
-      "MIN": 23.9,        
-      "FGP": 42.1,
-      "P3P": 37.2,
-      "FTP": 81.8,
-      "REB": 3.7,
-      "AST": 1.7,
-      "BLK": 0.4,
-      "STL": 0.8,
-      "PF": 2.1,
-      "TO": 1.5
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    }
+  },
+  {
+    "id": 59,
+    "name": "Christian Koloko",
+    "image": "../images/players/Koloko.png",
+    "jersey": 10,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    }
+  },
+  {
+    "id": 60,
+    "name": "Maxwell Lewis",
+    "image": "../images/players/Lewis.png",
+    "jersey": 21,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    }
+  },
+  {
+    "id": 61,
+    "name": "Quincy Olivari",
+    "image": "../images/players/Lewis.png",
+    "jersey": 41,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     }
   },
   {
@@ -332,7 +567,7 @@
     "id": 54,
     "name": "Cam Reddish",
     "image": "../images/players/Reddish.png",
-    "jersey": null,
+    "jersey": 5,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -423,53 +658,6 @@
     }
   },
   {
-    "id": 48,
-    "name": "Cole Swider",
-    "image": "../images/players/Swider.png",
-    "jersey": 20,
-    "game": {
-      "PTS": 0,
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "season": {
-      "GP": 0,
-      "PPG": 0,  
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "career": {
-      "GP": 7,
-      "PPG": 1.3,  
-      "MIN": 5.9,        
-      "FGP": 33.3,
-      "P3P": 37.5,
-      "FTP": 0,
-      "REB": 1.0,
-      "AST": 0.6,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0.4,
-      "TO": 0
-    }
-  },
-  {
     "id": 50,
     "name": "Jarred Vanderbilt",
     "image": "../images/players/Vanderbilt.png",
@@ -520,7 +708,7 @@
     "id": 55,
     "name": "Gabe Vincent",
     "image": "../images/players/Walker.png",
-    "jersey": null,
+    "jersey": 7,
     "game": {
       "PTS": 0,
       "MIN": 0,
@@ -561,6 +749,53 @@
       "STL": 0.8,
       "PF": 2.0,
       "TO": 1.2
+    }
+  },
+  {
+    "id": 62,
+    "name": "Christian Wood",
+    "image": "../images/players/Lewis.png",
+    "jersey": 35,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     }
   }
 ]

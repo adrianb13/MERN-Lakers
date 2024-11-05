@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "wins": 0,
-    "losses": 0,
+    "wins": 4,
+    "losses": 2,
     "upcoming": [
       { 
         "date": "10/22/2024",

@@ -27,7 +27,7 @@ class Home extends React.Component{
   sortRetired = () => {
     if(this.props.retired.length > 0){
       this.props.retired.map(number => {
-        if(number.id <= 5){
+        if(number.id <= 6){
           this.state.retiredLS.push(number);
         } else {
           this.state.retiredRS.push(number);
@@ -64,7 +64,7 @@ class Home extends React.Component{
                 {this.state.show ? (
                   <div>
                   {this.state.retiredRS.map(player => (
-                    <div key={player.id} className={"hDelay" + (player.id-5)}>{player.jersey} {player.name}</div>
+                    <div key={player.id} className={"hDelay" + (player.id-6)}>{player.jersey} {player.name}</div>
                   ))}
                   </div>
                 ) : (null)}

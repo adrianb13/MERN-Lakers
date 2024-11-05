@@ -37,23 +37,27 @@
   transition: 1s;
 }
 .hDelay1{
-  animation: nameHighlight 5s infinite linear;
+  animation: nameHighlight 6s infinite linear;
 }
 .hDelay2{
-  animation: nameHighlight 5s infinite linear;
+  animation: nameHighlight 6s infinite linear;
   animation-delay: 0.5s;
 }
 .hDelay3{
-  animation: nameHighlight 5s infinite linear;
+  animation: nameHighlight 6s infinite linear;
   animation-delay: 1s;
 }
 .hDelay4{
-  animation: nameHighlight 5s infinite linear;
+  animation: nameHighlight 6s infinite linear;
   animation-delay: 1.5s;
 }
 .hDelay5{
-  animation: nameHighlight 5s infinite linear;
+  animation: nameHighlight 6s infinite linear;
   animation-delay: 2s;
+}
+.hDelay6{
+  animation: nameHighlight 6s infinite linear;
+  animation-delay: 2.5s;
 }
 
 /* Champion Runner */

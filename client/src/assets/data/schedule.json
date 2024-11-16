@@ -89,16 +89,16 @@
         "home": true,
         "opponent": "Memphis Grizzlies",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "128-123",
+        "win": true
       },
       { 
         "date": "11/15/2024",
         "home": false,
         "opponent": "San Antonio Spurs",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "120-115",
+        "win": true
       },
       { 
         "date": "11/16/2024",

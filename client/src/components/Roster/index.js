@@ -51,9 +51,9 @@ class Roster extends React.Component{
                 </tbody>
               </table>
               <div className="rCoachBox">
-                <div><span className="rBold">Head Coach:</span> Frank Vogel</div>
-                <div><span className="rBold">Assistant Coaches:</span> Jason Kidd, Lionel Hollins, Phil Handy, Miles Simon, Mike Penberthy, Quinton Crawford</div>
-                <div><span className="rBold">Player Dev Coaches:</span> Greg St.Jean, Dru Anthrop, Jon Pastorek</div>
+                <div><span className="rBold">Head Coach:</span> JJ Redick</div>
+                <div><span className="rBold">Assistant Coaches:</span> Nate McMillan, Scott Brooks, Bob Beyer, Greg St. Jean, Lindsey Harding, Beau Levesque, Michael Wexler - Video Coordinator</div>
+                <div><span className="rBold">Trainers:</span> Leroy Sims, Octavio Marquez, Shane Besedick, Mike Mancias, Jon Ishop</div>
               </div>
             </div>
             <div className="rBallBox">

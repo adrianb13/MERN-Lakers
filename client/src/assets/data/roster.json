@@ -1,27 +1,27 @@
 [
   {
-    "id": 42,
-    "name": "Max Christie",
-    "jersey": 12,
-    "position": "G",
-    "age": 21,
-    "height": "6' 5\"",
-    "weight": "190 lbs",
-    "college": "Michigan State",
-    "contract": "$7,142,857",
-    "image": "../images/players/Christie.png"
+    "id": 63,
+    "name": "Luka Doncic",
+    "jersey": 77,
+    "position": "PG",
+    "age": 25,
+    "height": "6' 6\"",
+    "weight": "230 lbs",
+    "college": "",
+    "contract": "$43,031,940",
+    "image": "../images/players/Doncic.png"
   },
   {
-    "id": 7,
-    "name": "Anthony Davis",
-    "jersey": 3,
+    "id": 64,
+    "name": "Dorian Finney-Smith",
+    "jersey": 17,
     "position": "PF",
     "age": 31,
-    "height": "6' 10\"",
-    "weight": "253 lbs",
-    "college": "Kentucky",
-    "contract": "$43,219,440",
-    "image": "../images/players/Davis.png"
+    "height": "6' 7\"",
+    "weight": "220 lbs",
+    "college": "Florida",
+    "contract": "$14,924,168",
+    "image": "../images/players/Finney-Smith.jpg"
   },
   {
     "id": 43,
@@ -48,18 +48,6 @@
     "image": "../images/players/Hayes.png"
   },
   {
-    "id": 56,
-    "name": "Jalen Hood-Schifino",
-    "jersey": 0,
-    "position": "G",
-    "age": 21,
-    "height": "6' 5\"",
-    "weight": "215 lbs",
-    "college": "Indiana",
-    "contract": "$3,879,840",
-    "image": "../images/players/JHS.png"
-  },
-  {
     "id": 57,
     "name": "Bronny James",
     "jersey": 9,
@@ -82,6 +70,18 @@
     "college": " ",
     "contract": "$48,728,845",
     "image": "../images/players/James.png"
+  },
+  {
+    "id": 65,
+    "name": "Maxi Kleber",
+    "jersey": 42,
+    "position": "PF",
+    "age": 33,
+    "height": "6' 10\"",
+    "weight": "250 lbs",
+    "college": "",
+    "contract": "$11,000,000",
+    "image": "../images/players/Kleber.jpg"
   },
   {
     "id": 58,
@@ -108,28 +108,28 @@
     "image": "../images/players/Koloko.png"
   },
   {
-    "id": 60,
-    "name": "Maxwell Lewis",
-    "jersey": 21,
-    "position": "F",
-    "age": 22,
-    "height": "6' 7\"",
-    "weight": "195 lbs",
-    "college": "Pepperdine",
-    "contract": "$1,891,857",
-    "image": "../images/players/Lewis.png"
+    "id": 66,
+    "name": "Shake Milton",
+    "jersey": 20,
+    "position": "SG",
+    "age": 28,
+    "height": "6' 5\"",
+    "weight": "205 lbs",
+    "college": "SMU",
+    "contract": "2,875,000",
+    "image": "../images/players/Milton.png"
   },
   {
-    "id": 61,
-    "name": "Quincy Olivari",
-    "jersey": 41,
-    "position": "G",
-    "age": 23,
-    "height": "6' 3\"",
-    "weight": "200 lbs",
-    "college": "Xavier",
-    "contract": " ",
-    "image": "../images/players/Olivari.png"
+    "id": 66,
+    "name": "Markieff Morris",
+    "jersey": 35,
+    "position": "PF",
+    "age": 35,
+    "height": "6' 9\"",
+    "weight": "245 lbs",
+    "college": "Kansas",
+    "contract": "2,087,519",
+    "image": "../images/players/Morris.png"
   },
   {
     "id": 35,
@@ -154,18 +154,6 @@
     "college": "Duke",
     "contract": "$2,463,946",
     "image": "../images/players/Reddish.png"
-  },
-  {
-    "id": 46,
-    "name": "D'Angelo Russell",
-    "jersey": 1,
-    "position": "PG",
-    "age": 28,
-    "height": "6' 3\"",
-    "weight": "193 lbs",
-    "college": "Ohio State",
-    "contract": "$18,692,307",
-    "image": "../images/players/Russell.png"
   },
   {
     "id": 50,

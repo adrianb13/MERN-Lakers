@@ -80,7 +80,7 @@
     "height": "6' 10\"",
     "weight": "260 lbs",
     "college": "UAB",
-    "contract": "",
+    "contract": "2-Way",
     "image": "../images/players/Jemison.png"
   },
   {
@@ -91,7 +91,7 @@
     "age": 33,
     "height": "6' 10\"",
     "weight": "250 lbs",
-    "college": "",
+    "college": " ",
     "contract": "$11,000,000",
     "image": "../images/players/Kleber.jpg"
   },
@@ -116,7 +116,7 @@
     "height": "7' 0\"",
     "weight": "230 lbs",
     "college": "Arizona",
-    "contract": " ",
+    "contract": "2-Way",
     "image": "../images/players/Koloko.png"
   },
   {
@@ -128,7 +128,7 @@
     "height": "6' 5\"",
     "weight": "205 lbs",
     "college": "SMU",
-    "contract": "2,875,000",
+    "contract": "$2,875,000",
     "image": "../images/players/Milton.png"
   },
   {
@@ -140,7 +140,7 @@
     "height": "6' 9\"",
     "weight": "245 lbs",
     "college": "Kansas",
-    "contract": "2,087,519",
+    "contract": "$2,087,519",
     "image": "../images/players/Morris.png"
   },
   {
@@ -175,8 +175,8 @@
     "age": 22,
     "height": "6' 9\"",
     "weight": "245 lbs",
-    "college": "",
-    "contract": "",
+    "college": " ",
+    "contract": "2-Way",
     "image": "../images/players/Traore.png"
   },
   {

@@ -72,6 +72,18 @@
     "image": "../images/players/James.png"
   },
   {
+    "id": 67,
+    "name": "Trey Jemison III",
+    "jersey": 55,
+    "position": "C",
+    "age": 25,
+    "height": "6' 10\"",
+    "weight": "260 lbs",
+    "college": "UAB",
+    "contract": "",
+    "image": "../images/players/Jemison.png"
+  },
+  {
     "id": 65,
     "name": "Maxi Kleber",
     "jersey": 42,
@@ -154,6 +166,18 @@
     "college": "Duke",
     "contract": "$2,463,946",
     "image": "../images/players/Reddish.png"
+  },
+  {
+    "id": 68,
+    "name": "Armel Traore",
+    "jersey": 94,
+    "position": "F",
+    "age": 22,
+    "height": "6' 9\"",
+    "weight": "245 lbs",
+    "college": "",
+    "contract": "",
+    "image": "../images/players/Traore.png"
   },
   {
     "id": 50,

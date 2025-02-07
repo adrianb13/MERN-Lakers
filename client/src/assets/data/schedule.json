@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "wins": 28,
+    "wins": 30,
     "losses": 19,
     "upcoming": [
       { 
@@ -393,8 +393,8 @@
         "home": true,
         "opponent": "Golden State Warriors",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "120-112",
+        "win": true
       },
       { 
         "date": "02/08/2025",

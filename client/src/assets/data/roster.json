@@ -108,6 +108,18 @@
     "image": "../images/players/Kleber.jpg"
   },
   {
+    "id": 58,
+    "name": "Dalton Knecht",
+    "jersey": 4,
+    "position": "G",
+    "age": 23,
+    "height": "6' 6\"",
+    "weight": "215 lbs",
+    "college": "Tennessee",
+    "contract": "$3,819,120",
+    "image": "../images/players/Knecht.png"
+  },
+  {
     "id": 59,
     "name": "Christian Koloko",
     "jersey": 10,
@@ -178,18 +190,6 @@
     "college": "UC Santa Barbara",
     "contract": "$11,000,000",
     "image": "../images/players/Vincent.png"
-  },
-  {
-    "id": 69,
-    "name": "Mark Williams",
-    "jersey": 5,
-    "position": "C",
-    "age": 23,
-    "height": "7' 0\"",
-    "weight": "240 lbs",
-    "college": "Duke",
-    "contract": "$4,094,280",
-    "image": "../images/players/Williams.png"
   },
   {
     "id": 62,

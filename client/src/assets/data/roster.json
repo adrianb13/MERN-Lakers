@@ -168,6 +168,18 @@
     "image": "../images/players/Reaves.png"
   },
   {
+    "id": 54,
+    "name": "Cam Reddish",
+    "jersey": 5,
+    "position": "SF",
+    "age": 25,
+    "height": "6' 7\"",
+    "weight": "217 lbs",
+    "college": "Duke",
+    "contract": "$2,463,946",
+    "image": "../images/players/Reddish.png"
+  },
+  {
     "id": 50,
     "name": "Jarred Vanderbilt",
     "jersey": 2,

@@ -658,6 +658,53 @@
     }
   },
   {
+    "id": 54,
+    "name": "Cam Reddish",
+    "image": "../images/players/Reddish.png",
+    "jersey": 5,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 31,
+      "PPG": 3.3,  
+      "MIN": 18.1,
+      "FGP": 43.0,
+      "P3P": 28.9,
+      "FTP": 61.5,
+      "REB": 2.0,
+      "AST": 0.7,
+      "BLK": 0.3,
+      "STL": 1.0,
+      "PF": 1.4,
+      "TO": 0.4
+    },
+    "career": {
+      "GP": 252,
+      "PPG": 8.5,  
+      "MIN": 23.2,        
+      "FGP": 39.9,
+      "P3P": 32.2,
+      "FTP": 82.1,
+      "REB": 2.7,
+      "AST": 1.2,
+      "BLK": 0.4,
+      "STL": 1.0,
+      "PF": 1.7,
+      "TO": 1.1
+    }
+  },
+  {
     "id": 50,
     "name": "Jarred Vanderbilt",
     "image": "../images/players/Vanderbilt.png",

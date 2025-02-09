@@ -24,6 +24,18 @@
     "image": "../images/players/Finney-Smith.jpg"
   },
   {
+    "id": 70,
+    "name": "Jordan Goodwin",
+    "jersey": 30,
+    "position": "G",
+    "age": 26,
+    "height": "6' 4\"",
+    "weight": "200 lbs",
+    "college": "Saint Louis",
+    "contract": "2-Way",
+    "image": "../images/players/Traore.png"
+  },
+  {
     "id": 43,
     "name": "Rui Hachimura",
     "jersey": 28,
@@ -142,18 +154,6 @@
     "college": "Oklahoma",
     "contract": "$12,976,362",
     "image": "../images/players/Reaves.png"
-  },
-  {
-    "id": 68,
-    "name": "Armel Traore",
-    "jersey": 94,
-    "position": "F",
-    "age": 22,
-    "height": "6' 9\"",
-    "weight": "245 lbs",
-    "college": " ",
-    "contract": "2-Way",
-    "image": "../images/players/Traore.png"
   },
   {
     "id": 50,

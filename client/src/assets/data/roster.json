@@ -132,6 +132,18 @@
     "image": "../images/players/Koloko.png"
   },
   {
+    "id": 72,
+    "name": "Alex Len",
+    "jersey": 27,
+    "position": "C",
+    "age": 31,
+    "height": "7' 0\"",
+    "weight": "250 lbs",
+    "college": "Maryland",
+    "contract": "$2,087,519",
+    "image": "../images/players/Len.png"
+  },
+  {
     "id": 66,
     "name": "Shake Milton",
     "jersey": 20,
@@ -144,7 +156,7 @@
     "image": "../images/players/Milton.png"
   },
   {
-    "id": 66,
+    "id": 71,
     "name": "Markieff Morris",
     "jersey": 35,
     "position": "PF",

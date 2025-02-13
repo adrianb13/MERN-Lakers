@@ -214,17 +214,5 @@
     "college": "UC Santa Barbara",
     "contract": "$11,000,000",
     "image": "../images/players/Vincent.png"
-  },
-  {
-    "id": 62,
-    "name": "Christian Wood",
-    "jersey": 35,
-    "position": "F",
-    "age": 29,
-    "height": "6' 8\"",
-    "weight": "214 lbs",
-    "college": "UNLV",
-    "contract": "$3,036,040",
-    "image": "../images/players/Wood.png"
   }
 ]

@@ -420,21 +420,29 @@
         "score": "119-131",
         "win": false
       },
+      { 
+        "date": "02/19/2025",
+        "home": true,
+        "opponent": "Charlotte Hornets",
+        "game": "6:00 PM PT",
+        "score": "97-100",
+        "win": false
+      },
       {
         "date": "02/20/2025",
         "home": false,
         "opponent": "Portland Trailblazers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "110*102",
+        "win": true
       },
       { 
         "date": "02/22/2025",
         "home": false,
         "opponent": "Denver Nuggets",
         "game": "5:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "123-100",
+        "win": true
       },
       { 
         "date": "02/25/2025",
@@ -540,6 +548,14 @@
         "score": "N/A",
         "win": null
       },
+      {
+        "date": "03/20/2025",
+        "home": true,
+        "opponent": "Milwaukee Bucks",
+        "game": "7:30 PM PT",
+        "score": "N/A",
+        "win": null
+      },
       { 
         "date": "03/22/2025",
         "home": true,
@@ -641,22 +657,6 @@
         "home": false,
         "opponent": "Portland Trailblazers",
         "game": "12:30 PM PT",
-        "score": "N/A",
-        "win": null
-      },
-      { 
-        "date": "04/14/2025",
-        "home": true,
-        "opponent": "Charlotte Hornets",
-        "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
-      },
-      { 
-        "date": "04/15/2025",
-        "home": true,
-        "opponent": "San Antonio Spurs",
-        "game": "7:30 PM PT",
         "score": "N/A",
         "win": null
       }

@@ -449,32 +449,32 @@
         "home": true,
         "opponent": "Dallas Mavericks",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "107-99",
+        "win": true
       },
       { 
         "date": "02/27/2025",
         "home": true,
         "opponent": "Minnesota Timberwolves",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "111-102",
+        "win": true
       },
       { 
         "date": "02/28/2025",
         "home": true,
         "opponent": "Los Angeles Clippers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "106-102",
+        "win": true
       },
       { 
         "date": "03/02/2025",
         "home": true,
         "opponent": "Los Angeles Clippers",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "108-102",
+        "win": true
       },
       { 
         "date": "03/04/2025",

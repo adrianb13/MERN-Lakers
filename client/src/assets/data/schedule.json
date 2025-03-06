@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "wins": 32,
-    "losses": 19,
+    "wins": 39,
+    "losses": 21,
     "upcoming": [
       { 
         "date": "10/22/2024",
@@ -481,8 +481,8 @@
         "home": true,
         "opponent": "New Orleans Pelicans",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "136-115",
+        "win": true
       },
       { 
         "date": "03/06/2025",

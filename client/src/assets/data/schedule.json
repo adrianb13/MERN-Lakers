@@ -489,24 +489,24 @@
         "home": true,
         "opponent": "New York Knicks",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "113-109",
+        "win": true
       },
       { 
         "date": "03/08/2025",
         "home": false,
         "opponent": "Boston Celtics",
         "game": "5:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "101-111",
+        "win": false
       },
       { 
         "date": "03/10/2025",
         "home": false,
         "opponent": "Brooklyn Nets",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "108-111",
+        "win": false
       },
       { 
         "date": "03/13/2025",

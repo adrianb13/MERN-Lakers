@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "wins": 39,
-    "losses": 21,
+    "wins": 43,
+    "losses": 26,
     "upcoming": [
       { 
         "date": "10/22/2024",
@@ -513,48 +513,48 @@
         "home": false,
         "opponent": "Milwaukee Bucks",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "106-126",
+        "win": false
       },
       { 
         "date": "03/14/2025",
         "home": false,
         "opponent": "Denver Nuggets",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "126-131",
+        "win": false
       },
       { 
         "date": "03/16/2025",
         "home": true,
         "opponent": "Phoenix Suns",
         "game": "12:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "107-96",
+        "win": true
       },
       {
-        "date": "03/18/2025",
+        "date": "03/17/2025",
         "home": true,
-        "opponent": "Milwaukee Bucks",
+        "opponent": "San Antonio Spurs",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "125-109",
+        "win": true
       },
       {
         "date": "03/19/2025",
         "home": true,
         "opponent": "Denver Nuggets",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "120-108",
+        "win": true
       },
       {
         "date": "03/20/2025",
         "home": true,
         "opponent": "Milwaukee Bucks",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "89-118",
+        "win": false
       },
       { 
         "date": "03/22/2025",

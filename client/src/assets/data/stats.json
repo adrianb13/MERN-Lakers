@@ -1,5 +1,52 @@
 [
   {
+    "id": 73,
+    "name": "Deandre Ayton",
+    "image": "../images/players/Ayton.jpg",
+    "jersey": 0,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 398,
+      "PPG": 16.4,
+      "MIN": 30.8,
+      "FGP": 59.0,
+      "P3P": 23.0,
+      "FTP": 75.5,
+      "REB": 10.5,
+      "AST": 1.6,
+      "BLK": 1.0,
+      "STL": 0.7,
+      "PF": 2.6,
+      "TO": 1.7
+    }
+  },
+  {
     "id": 63,
     "name": "Luka Doncic",
     "image": "../images/players/Doncic.png",
@@ -18,18 +65,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 50,
-      "PPG": 28.2,  
-      "MIN": 35.4,
-      "FGP": 45.0,
-      "P3P": 36.8,
-      "FTP": 78.2,
-      "REB": 8.2,
-      "AST": 7.7,
-      "BLK": 0.4,
-      "STL": 1.8,
-      "PF": 2.5,
-      "TO": 3.6
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 450,
@@ -44,100 +91,6 @@
       "STL": 1.2,
       "PF": 2.3,
       "TO": 3.9
-    }
-  },
-  {
-    "id": 64,
-    "name": "Dorian Finney-Smith",
-    "image": "../images/players/Finney-Smith.jpg",
-    "jersey": 17,
-    "game": {
-      "PTS": 0,
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "season": {
-      "GP": 63,
-      "PPG": 8.7,
-      "MIN": 28.9,
-      "FGP": 44.8,
-      "P3P": 41.1,
-      "FTP": 66.7,
-      "REB": 3.9,
-      "AST": 1.4,
-      "BLK": 0.4,
-      "STL": 0.9,
-      "PF": 2.2,
-      "TO": 0.9
-    },
-    "career": {
-      "GP": 591,
-      "PPG": 8.3,
-      "MIN": 28.0,
-      "FGP": 43.6,
-      "P3P": 36.2,
-      "FTP": 71.8,
-      "REB": 4.5,
-      "AST": 1.4,
-      "BLK": 0.4,
-      "STL": 0.8,
-      "PF": 2.2,
-      "TO": 0.9
-    }
-  },
-  {
-    "id": 70,
-    "name": "Jordan Goodwin",
-    "image": "../images/players/Goodwin.png",
-    "jersey": 30,
-    "game": {
-      "PTS": 0,
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "season": {
-      "GP": 29,
-      "PPG": 5.6,
-      "MIN": 18.7,
-      "FGP": 43.8,
-      "P3P": 38.2,
-      "FTP": 81.8,
-      "REB": 3.9,
-      "AST": 1.4,
-      "BLK": 0.5,
-      "STL": 1.0,
-      "PF": 1.5,
-      "TO": 0.9
-    },
-    "career": {
-      "GP": 150,
-      "PPG": 6.2,
-      "MIN": 18.1,
-      "FGP": 41.0,
-      "P3P": 32.3,
-      "FTP": 76.3,
-      "REB": 3.8,
-      "AST": 2.4,
-      "BLK": 0.4,
-      "STL": 0.9,
-      "PF": 1.4,
-      "TO": 0.9
     }
   },
   {
@@ -159,18 +112,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 59,
-      "PPG": 13.1,  
-      "MIN": 31.7,
-      "FGP": 50.9,
-      "P3P": 41.3,
-      "FTP": 77.0,
-      "REB": 5.0,
-      "AST": 1.4,
-      "BLK": 0.4,
-      "STL": 0.8,
-      "PF": 1.8,
-      "TO": 0.8
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 337,
@@ -206,18 +159,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 56,
-      "PPG": 6.8,  
-      "MIN": 19.5,
-      "FGP": 72.2,
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
       "P3P": 0,
-      "FTP": 62.2,
-      "REB": 4.8,
-      "AST": 1.0,
-      "BLK": 0.9,
-      "STL": 0.6,
-      "PF": 2.4,
-      "TO": 0.8
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 367,
@@ -253,18 +206,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 27,
-      "PPG": 2.3,
-      "MIN": 6.7,
-      "FGP": 31.3,
-      "P3P": 28.1,
-      "FTP": 78.6,
-      "REB": 0.7,
-      "AST": 0.8,
-      "BLK": 0.1,
-      "STL": 0.3,
-      "PF": 0.5,
-      "TO": 0.5
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 27,
@@ -300,18 +253,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 70,
-      "PPG": 24.4,  
-      "MIN": 34.9,
-      "FGP": 51.3,
-      "P3P": 37.6,
-      "FTP": 78.2,
-      "REB": 7.8,
-      "AST": 8.2,
-      "BLK": 0.6,
-      "STL": 1.0,
-      "PF": 1.4,
-      "TO": 3.7
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 1562,
@@ -326,53 +279,6 @@
       "STL": 1.5,
       "PF": 1.8,
       "TO": 3.5
-    }
-  },
-  {
-    "id": 67,
-    "name": "Trey Jemison III",
-    "image": "../images/players/Jemison.png",
-    "jersey": 55,
-    "game": {
-      "PTS": 0,
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "season": {
-      "GP": 38,
-      "PPG": 2.5,
-      "MIN": 10.3,
-      "FGP": 55.4,
-      "P3P": 0,
-      "FTP": 39.4,
-      "REB": 2.8,
-      "AST": 0.4,
-      "BLK": 0.4,
-      "STL": 0.2,
-      "PF": 1.8,
-      "TO": 0.6
-    },
-    "career": {
-      "GP": 63,
-      "PPG": 4.2,
-      "MIN": 15.3,
-      "FGP": 55.2,
-      "P3P": 0,
-      "FTP": 58.6,
-      "REB": 3.8,
-      "AST": 0.7,
-      "BLK": 0.7,
-      "STL": 0.3,
-      "PF": 2.2,
-      "TO": 0.9
     }
   },
   {
@@ -394,18 +300,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 34,
-      "PPG": 3.0,
-      "MIN": 18.7,
-      "FGP": 38.5,
-      "P3P": 26.5,
-      "FTP": 76.2,
-      "REB": 2.8,
-      "AST": 1.3,
-      "BLK": 0.5,
-      "STL": 0.3,
-      "PF": 1.9,
-      "TO": 0.7
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 440,
@@ -441,18 +347,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 78,
-      "PPG": 9.1,
-      "MIN": 19.2,
-      "FGP": 46.1,
-      "P3P": 37.6,
-      "FTP": 76.2,
-      "REB": 2.8,
-      "AST": 0.8,
-      "BLK": 0.1,
-      "STL": 0.3,
-      "PF": 1.2,
-      "TO": 0.5
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 78,
@@ -488,18 +394,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 37,
-      "PPG": 2.4,
-      "MIN": 9.2,
-      "FGP": 60.3,
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
       "P3P": 0,
-      "FTP": 71.4,
-      "REB": 2.5,
-      "AST": 0.4,
-      "BLK": 0.4,
-      "STL": 0.2,
-      "PF": 1.2,
-      "TO": 0.3
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 95,
@@ -514,6 +420,53 @@
       "STL": 0.3,
       "PF": 1.8,
       "TO": 0.3
+    }
+  },
+  {
+    "id": 74,
+    "name": "Jake LaRavia",
+    "image": "../images/players/Laravia.jpg",
+    "jersey": 3,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 136,
+      "PPG": 6.9,
+      "MIN": 18.9,
+      "FGP": 42.9,
+      "P3P": 37.1,
+      "FTP": 75.1,
+      "REB": 3.3,
+      "AST": 1.7,
+      "BLK": 0.3,
+      "STL": 0.8,
+      "PF": 1.8,
+      "TO": 1.1
     }
   },
   {
@@ -535,18 +488,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 46,
-      "PPG": 1.6,
-      "MIN": 8.3,
-      "FGP": 50.8,
-      "P3P": 22.2,
-      "FTP": 47.1,
-      "REB": 2.1,
-      "AST": 0.8,
-      "BLK": 0.5,
-      "STL": 0.2,
-      "PF": 1.2,
-      "TO": 0.4
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 690,
@@ -561,53 +514,6 @@
       "STL": 0.4,
       "PF": 2.3,
       "TO": 1.1
-    }
-  },
-  {
-    "id": 66,
-    "name": "Shake Milton",
-    "image": "../images/players/Milton.png",
-    "jersey": 20,
-    "game": {
-      "PTS": 0,
-      "MIN": 0,
-      "FGP": 0,
-      "P3P": 0,
-      "FTP": 0,
-      "REB": 0,
-      "AST": 0,
-      "BLK": 0,
-      "STL": 0,
-      "PF": 0,
-      "TO": 0
-    },
-    "season": {
-      "GP": 57,
-      "PPG": 5.5,
-      "MIN": 14.7,
-      "FGP": 45.3,
-      "P3P": 35.8,
-      "FTP": 79.7,
-      "REB": 1.8,
-      "AST": 1.8,
-      "BLK": 0.1,
-      "STL": 0.4,
-      "PF": 1.2,
-      "TO": 0.7
-    },
-    "career": {
-      "GP": 359,
-      "PPG": 8.1,
-      "MIN": 18.7,
-      "FGP": 45.1,
-      "P3P": 35.8,
-      "FTP": 82.4,
-      "REB": 2.2,
-      "AST": 2.4,
-      "BLK": 0.2,
-      "STL": 0.5,
-      "PF": 1.7,
-      "TO": 1.0
     }
   },
   {
@@ -629,18 +535,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 15,
-      "PPG": 3.7,
-      "MIN": 10.9,
-      "FGP": 30.0,
-      "P3P": 25.0,
-      "FTP": 83.3,
-      "REB": 1.5,
-      "AST": 1.4,
-      "BLK": 0.2,
-      "STL": 0.1,
-      "PF": 1.1,
-      "TO": 0.3
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 791,
@@ -676,18 +582,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 73,
-      "PPG": 20.2,  
-      "MIN": 34.9,
-      "FGP": 46.0,
-      "P3P": 37.7,
-      "FTP": 87.7,
-      "REB": 4.5,
-      "AST": 5.8,
-      "BLK": 0.3,
-      "STL": 1.1,
-      "PF": 2.1,
-      "TO": 2.4
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 280,
@@ -702,6 +608,100 @@
       "STL": 0.7,
       "PF": 1.8,
       "TO": 1.8
+    }
+  },
+  {
+    "id": 75,
+    "name": "Marcus Smart",
+    "image": "../images/players/Smart.jpg",
+    "jersey": 36,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 635,
+      "PPG": 10.6,
+      "MIN": 29.5,
+      "FGP": 38.8,
+      "P3P": 32.4,
+      "FTP": 77.6,
+      "REB": 3.4,
+      "AST": 4.6,
+      "BLK": 0.4,
+      "STL": 1.6,
+      "PF": 2.5,
+      "TO": 1.9
+    }
+  },
+  {
+    "id": 76,
+    "name": "Adou Thiero",
+    "image": "../images/players/Thiero.jpg",
+    "jersey": 1,
+    "game": {
+      "PTS": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "season": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
+    },
+    "career": {
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     }
   },
   {
@@ -723,18 +723,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 36,
-      "PPG": 4.1,  
-      "MIN": 16.1,
-      "FGP": 48.8,
-      "P3P": 28.1,
-      "FTP": 55.6,
-      "REB": 5.1,
-      "AST": 1.1,
-      "BLK": 0.3,
-      "STL": 1.0,
-      "PF": 1.9,
-      "TO": 0.8
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 309,
@@ -770,18 +770,18 @@
       "TO": 0
     },
     "season": {
-      "GP": 72,
-      "PPG": 6.4,  
-      "MIN": 21.2,
-      "FGP": 40.0,
-      "P3P": 35.3,
-      "FTP": 71.4,
-      "REB": 1.3,
-      "AST": 1.4,
-      "BLK": 0.2,
-      "STL": 0.7,
-      "PF": 2.1,
-      "TO": 0.6
+      "GP": 0,
+      "PPG": 0,
+      "MIN": 0,
+      "FGP": 0,
+      "P3P": 0,
+      "FTP": 0,
+      "REB": 0,
+      "AST": 0,
+      "BLK": 0,
+      "STL": 0,
+      "PF": 0,
+      "TO": 0
     },
     "career": {
       "GP": 278,

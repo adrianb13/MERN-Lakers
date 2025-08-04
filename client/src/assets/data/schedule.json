@@ -561,104 +561,104 @@
         "home": true,
         "opponent": "Chicago Bulls",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "115-146",
+        "win": false
       },
       { 
         "date": "03/24/2025",
         "home": false,
         "opponent": "Orlando Magic",
         "game": "4:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "106-118",
+        "win": false
       },
       { 
         "date": "03/26/2025",
         "home": false,
         "opponent": "Indiana Pacers",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "120-119",
+        "win": true
       },
       { 
         "date": "03/27/2025",
         "home": false,
         "opponent": "Chicago Bulls",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "117-119",
+        "win": false
       },
       { 
         "date": "03/29/2025",
         "home": true,
         "opponent": "Memphis Grizzlies",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "134-127",
+        "win": true
       },
       { 
         "date": "03/31/2025",
         "home": true,
         "opponent": "Houston Rockets",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "104-98",
+        "win": true
       },
       { 
         "date": "04/03/2025",
         "home": true,
         "opponent": "Golden State Warriors",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "116-123",
+        "win": false
       },
       { 
         "date": "04/04/2025",
         "home": true,
         "opponent": "New Orleans Pelicans",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "124-108",
+        "win": true
       },
       {
         "date": "04/06/2025",
         "home": false,
         "opponent": "Oklahoma City Thunder",
         "game": "12:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "129.99",
+        "win": true
       },
       {
         "date": "04/08/2025",
         "home": false,
         "opponent": "Oklahoma City Thunder",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "120-136",
+        "win": false
       },
       {
         "date": "04/09/2025",
         "home": false,
         "opponent": "Dallas Mavericks",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "112-97",
+        "win": true
       },
       {
         "date": "04/11/2025",
         "home": true,
         "opponent": "Houston Rockets",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "140-109",
+        "win": true
       },
       {
         "date": "04/13/2025",
         "home": false,
         "opponent": "Portland Trailblazers",
         "game": "12:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "81-109",
+        "win": false
       },
       {
         "date": "04/19/2023",
@@ -673,40 +673,32 @@
         "home": true,
         "opponent": "Minnesota Timberwolves",
         "game": "7:00 PM PT - Playoffs Game 2",
-        "score": "N/A",
-        "win": null
+        "score": "94-85 - Playoffs Game 2",
+        "win": true
       },
       {
         "date": "04/25/2025",
         "home": false,
         "opponent": "Minnesota Timberwolves",
         "game": "6:30 PM PT - Playoffs Game 3",
-        "score": "N/A",
-        "win": null
+        "score": "104-116 - - Playoffs Game 3",
+        "win": false
       },
       {
         "date": "04/27/2025",
         "home": false,
         "opponent": "Minnesota Timberwolves",
         "game": "12:30 PM PT - Playoffs Game 4",
-        "score": "N/A",
-        "win": null
+        "score": "113-116 - - Playoffs Game 4",
+        "win": false
       },
       {
         "date": "04/30/2025",
         "home": true,
         "opponent": "Minnesota Timberwolves",
         "game": "Playoffs Game 5",
-        "score": "N/A",
-        "win": null
-      },
-      {
-        "date": "05/02/2025",
-        "home": false,
-        "opponent": "Memphis Grizzlies",
-        "game": "Playoffs Game 6",
-        "score": "N/A",
-        "win": null
+        "score": "96-103 - - Playoffs Game 5",
+        "win": false
       }
     ]
   }

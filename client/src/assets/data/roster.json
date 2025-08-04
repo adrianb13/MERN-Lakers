@@ -1,5 +1,17 @@
 [
   {
+    "id": 73,
+    "name": "Deandre Ayton",
+    "jersey": 0,
+    "position": "C",
+    "age": 27,
+    "height": "7' 0\"",
+    "weight": "252 lbs",
+    "college": "Arizona",
+    "contract": "",
+    "image": "../images/players/Ayton.jpg"
+  },
+  {
     "id": 63,
     "name": "Luka Doncic",
     "jersey": 77,
@@ -10,30 +22,6 @@
     "college": "",
     "contract": "$43,031,940",
     "image": "../images/players/Doncic.png"
-  },
-  {
-    "id": 64,
-    "name": "Dorian Finney-Smith",
-    "jersey": 17,
-    "position": "PF",
-    "age": 31,
-    "height": "6' 7\"",
-    "weight": "220 lbs",
-    "college": "Florida",
-    "contract": "$14,924,168",
-    "image": "../images/players/Finney-Smith.jpg"
-  },
-  {
-    "id": 70,
-    "name": "Jordan Goodwin",
-    "jersey": 30,
-    "position": "G",
-    "age": 26,
-    "height": "6' 4\"",
-    "weight": "200 lbs",
-    "college": "Saint Louis",
-    "contract": "2-Way",
-    "image": "../images/players/Goodwin.png"
   },
   {
     "id": 43,
@@ -84,18 +72,6 @@
     "image": "../images/players/James.png"
   },
   {
-    "id": 67,
-    "name": "Trey Jemison III",
-    "jersey": 55,
-    "position": "C",
-    "age": 25,
-    "height": "6' 10\"",
-    "weight": "260 lbs",
-    "college": "UAB",
-    "contract": "2-Way",
-    "image": "../images/players/Jemison.png"
-  },
-  {
     "id": 65,
     "name": "Maxi Kleber",
     "jersey": 42,
@@ -132,6 +108,18 @@
     "image": "../images/players/Koloko.png"
   },
   {
+    "id": 74,
+    "name": "Jake LaRavia",
+    "jersey": 3,
+    "position": "F",
+    "age": 23,
+    "height": "6' 7\"",
+    "weight": "235 lbs",
+    "college": "Wake Forest",
+    "contract": "$3,352,680",
+    "image": "../images/players/Laravia.jpg"
+  },
+  {
     "id": 72,
     "name": "Alex Len",
     "jersey": 27,
@@ -142,18 +130,6 @@
     "college": "Maryland",
     "contract": "$2,087,519",
     "image": "../images/players/Len.png"
-  },
-  {
-    "id": 66,
-    "name": "Shake Milton",
-    "jersey": 20,
-    "position": "SG",
-    "age": 28,
-    "height": "6' 5\"",
-    "weight": "205 lbs",
-    "college": "SMU",
-    "contract": "$2,875,000",
-    "image": "../images/players/Milton.png"
   },
   {
     "id": 71,
@@ -180,16 +156,28 @@
     "image": "../images/players/Reaves.png"
   },
   {
-    "id": 54,
-    "name": "Cam Reddish",
-    "jersey": 5,
-    "position": "SF",
-    "age": 25,
-    "height": "6' 7\"",
-    "weight": "217 lbs",
-    "college": "Duke",
-    "contract": "$2,463,946",
-    "image": "../images/players/Reddish.png"
+    "id": 75,
+    "name": "Marcus Smart",
+    "jersey": 36,
+    "position": "PG",
+    "age": 31,
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "college": "Oklahoma St",
+    "contract": "",
+    "image": "../images/players/Smart.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Adou Thiero",
+    "jersey": 1,
+    "position": "F",
+    "age": 21,
+    "height": "6' 8\"",
+    "weight": "220 lbs",
+    "college": "Arkansas",
+    "contract": "",
+    "image": "../images/players/Thiero.jpg"
   },
   {
     "id": 50,

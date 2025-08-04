@@ -273,7 +273,7 @@ class Info extends React.Component{
                       </div>
                     ))}
                   </div>
-                  {/* <div className="iEnd iBottomBorder">End Of Season</div> */}
+                  <div className="iEnd iBottomBorder">End Of Season</div>
                 </div>
               ) : (
                 <div>

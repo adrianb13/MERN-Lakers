@@ -8,7 +8,7 @@
     "height": "7' 0\"",
     "weight": "252 lbs",
     "college": "Arizona",
-    "contract": "",
+    "contract": "$8,104,000",
     "image": "../images/players/Ayton.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "height": "6' 6\"",
     "weight": "230 lbs",
     "college": "",
-    "contract": "$43,031,940",
+    "contract": "$56,126,450",
     "image": "../images/players/Doncic.png"
   },
   {
@@ -32,7 +32,7 @@
     "height": "6' 8\"",
     "weight": "230 lbs",
     "college": "Gonzaga",
-    "contract": "$17,000,000",
+    "contract": "$18,259,259",
     "image": "../images/players/Hachimura.png"
   },
   {
@@ -44,7 +44,7 @@
     "height": "7' 0\"",
     "weight": "220 lbs",
     "college": "Texas",
-    "contract": "$2,463,946",
+    "contract": "$3,449,324",
     "image": "../images/players/Hayes.png"
   },
   {
@@ -56,7 +56,7 @@
     "height": "6' 2\"",
     "weight": "210 lbs",
     "college": "USC",
-    "contract": "$1,157,153",
+    "contract": "$1,955,377",
     "image": "../images/players/Bronny.png"
   },
   {
@@ -68,7 +68,7 @@
     "height": "6' 9\"",
     "weight": "250 lbs",
     "college": " ",
-    "contract": "$48,728,845",
+    "contract": "$52,627,153",
     "image": "../images/players/James.png"
   },
   {
@@ -92,7 +92,7 @@
     "height": "6' 6\"",
     "weight": "215 lbs",
     "college": "Tennessee",
-    "contract": "$3,819,120",
+    "contract": "$4,010,160",
     "image": "../images/players/Knecht.png"
   },
   {
@@ -116,7 +116,7 @@
     "height": "6' 7\"",
     "weight": "235 lbs",
     "college": "Wake Forest",
-    "contract": "$3,352,680",
+    "contract": "$6,000,000",
     "image": "../images/players/LaRavia.jpg"
   },
   {
@@ -128,7 +128,7 @@
     "height": "6' 5\"",
     "weight": "197 lbs",
     "college": "Oklahoma",
-    "contract": "$12,976,362",
+    "contract": "$13,937,574",
     "image": "../images/players/Reaves.png"
   },
   {
@@ -140,7 +140,7 @@
     "height": "6' 3\"",
     "weight": "220 lbs",
     "college": "Oklahoma St",
-    "contract": "",
+    "contract": "$5,134,000",
     "image": "../images/players/Smart.jpg"
   },
   {
@@ -152,7 +152,7 @@
     "height": "6' 8\"",
     "weight": "220 lbs",
     "college": "Arkansas",
-    "contract": "",
+    "contract": "1,272,870",
     "image": "../images/players/Thiero.jpg"
   },
   {
@@ -164,7 +164,7 @@
     "height": "6' 8\"",
     "weight": "214 lbs",
     "college": "Kentucky",
-    "contract": "$10,714,286",
+    "contract": "$11,571,429",
     "image": "../images/players/Vanderbilt.png"
   },
   {
@@ -176,7 +176,7 @@
     "height": "6' 2\"",
     "weight": "200 lbs",
     "college": "UC Santa Barbara",
-    "contract": "$11,000,000",
+    "contract": "$11,500,000",
     "image": "../images/players/Vincent.png"
   }
 ]

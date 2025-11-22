@@ -120,30 +120,6 @@
     "image": "../images/players/LaRavia.jpg"
   },
   {
-    "id": 72,
-    "name": "Alex Len",
-    "jersey": 27,
-    "position": "C",
-    "age": 31,
-    "height": "7' 0\"",
-    "weight": "250 lbs",
-    "college": "Maryland",
-    "contract": "$2,087,519",
-    "image": "../images/players/Len.png"
-  },
-  {
-    "id": 71,
-    "name": "Markieff Morris",
-    "jersey": 35,
-    "position": "PF",
-    "age": 35,
-    "height": "6' 9\"",
-    "weight": "245 lbs",
-    "college": "Kansas",
-    "contract": "$2,087,519",
-    "image": "../images/players/Morris.png"
-  },
-  {
     "id": 35,
     "name": "Austin Reaves",
     "jersey": 15,

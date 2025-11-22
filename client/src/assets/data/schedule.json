@@ -9,120 +9,120 @@
         "home": true,
         "opponent": "Golden State Warriors",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "109-119",
+        "win": false
       },
       { 
         "date": "10/24/2025",
         "home": true,
         "opponent": "Minnesota Timberwolves",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "128-110",
+        "win": true
       },
       { 
         "date": "10/26/2025",
         "home": false,
         "opponent": "Sacramento Kings",
         "game": "6:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "127-120",
+        "win": true
       }, 
       { 
         "date": "10/27/2025",
         "home": true,
         "opponent": "Portland Trailblazers",
         "game": "7:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "108-122",
+        "win": false
       },
       { 
         "date": "10/29/2025",
         "home": false,
         "opponent": "Minnesota Timberwolves",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "116-115",
+        "win": true
       },
       { 
         "date": "10/31/2025",
         "home": false,
         "opponent": "Memphis Grizzlies",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "117-112",
+        "win": true
       },
       { 
         "date": "11/02/2025",
         "home": true,
         "opponent": "Miami Heat",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "130-120",
+        "win": true
       },
       { 
         "date": "11/03/2025",
         "home": false,
         "opponent": "Portland Trailblazers",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "123-115",
+        "win": true
       },
       { 
         "date": "11/05/2025",
         "home": true,
         "opponent": "San Antonio Spurs",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "18-116",
+        "win": true
       },
       { 
         "date": "11/08/2025",
         "home": false,
         "opponent": "Atlanta Hawks",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "102-122",
+        "win": false
       },
       { 
         "date": "11/10/2025",
         "home": false,
         "opponent": "Charlotte Hornets",
         "game": "4:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "121-111",
+        "win": true
       },
       { 
         "date": "11/12/2025",
         "home": false,
         "opponent": "Oklahoma City Thunder",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "92-121",
+        "win": false
       },
       { 
         "date": "11/14/2025",
         "home": false,
         "opponent": "New Orleans Pelicans",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "118-104",
+        "win": true
       },
       { 
         "date": "11/15/2025",
         "home": false,
         "opponent": "Milwaukee Bucks",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "119-95",
+        "win": true
       },
       { 
         "date": "11/18/2025",
         "home": true,
         "opponent": "Utah Jazz",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "140-126",
+        "win": true
       },
       { 
         "date": "11/23/2025",

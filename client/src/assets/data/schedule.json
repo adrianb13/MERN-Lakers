@@ -129,62 +129,78 @@
         "home": false,
         "opponent": "Utah Jazz",
         "game": "5:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "108-106",
+        "win": true
       },
       { 
         "date": "11/25/2025",
         "home": true,
         "opponent": "Los Angeles Clippers",
         "game": "8:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "135-118",
+        "win": true
       },
       { 
         "date": "11/28/2025",
         "home": true,
         "opponent": "Dallas Mavericks",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "129-119",
+        "win": true
       },
       { 
         "date": "11/30/2025",
         "home": true,
         "opponent": "New Orleans Pelicans",
         "game": "6:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "133-121",
+        "win": true
       },
       { 
         "date": "12/01/2025",
         "home": true,
         "opponent": "Phoenix Suns",
         "game": "7:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "108-125",
+        "win": false
       },
       { 
         "date": "12/04/2025",
         "home": false,
         "opponent": "Toronta Raptors",
         "game": "4:30 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "123-120",
+        "win": true
       },
       { 
         "date": "12/05/2025",
         "home": false,
         "opponent": "Boston Celtics",
         "game": "4:00 PM PT",
-        "score": "N/A",
-        "win": null
+        "score": "105-126",
+        "win": false
       },
       { 
         "date": "12/07/2025",
         "home": false,
         "opponent": "Philadelphia 76ers",
         "game": "4:30 PM PT",
+        "score": "112-108",
+        "win": true
+      },
+      { 
+        "date": "12/10/2025",
+        "home": true,
+        "opponent": "San Antonio Spurs",
+        "game": "4:30 PM PT",
+        "score": "132-119",
+        "win": false
+      },
+      { 
+        "date": "12/14/2025",
+        "home": false,
+        "opponent": "Phoenix Suns",
+        "game": "5:00 PM PT",
         "score": "N/A",
         "win": null
       },

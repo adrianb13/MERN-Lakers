@@ -72,6 +72,18 @@
     "image": "../images/players/James.png"
   },
   {
+    "id": 77,
+    "name": "Luke Kennard",
+    "jersey": 10,
+    "position": "G",
+    "age": 29,
+    "height": "6' 5\"",
+    "weight": "206 lbs",
+    "college": "Duke",
+    "contract": "$11,000,000",
+    "image": "../images/players/Kennard.png"
+  },
+  {
     "id": 65,
     "name": "Maxi Kleber",
     "jersey": 42,
@@ -96,21 +108,9 @@
     "image": "../images/players/Knecht.png"
   },
   {
-    "id": 59,
-    "name": "Christian Koloko",
-    "jersey": 10,
-    "position": "C",
-    "age": 24,
-    "height": "7' 0\"",
-    "weight": "230 lbs",
-    "college": "Arizona",
-    "contract": "2-Way",
-    "image": "../images/players/Koloko.png"
-  },
-  {
     "id": 74,
     "name": "Jake LaRavia",
-    "jersey": 3,
+    "jersey": 12,
     "position": "F",
     "age": 23,
     "height": "6' 7\"",
@@ -144,6 +144,18 @@
     "image": "../images/players/Smart.jpg"
   },
   {
+    "id": 79,
+    "name": "Nick Smith Jr.",
+    "jersey": 20,
+    "position": "G",
+    "age": 21,
+    "height": "6' 1\"",
+    "weight": "185 lbs",
+    "college": "Arkansas",
+    "contract": "$2,710,620",
+    "image": "../images/players/SmithJr.png"
+  },
+  {
     "id": 76,
     "name": "Adou Thiero",
     "jersey": 1,
@@ -156,6 +168,18 @@
     "image": "../images/players/Thiero.jpg"
   },
   {
+    "id": 78,
+    "name": "Drew Timme",
+    "jersey": 17,
+    "position": "F",
+    "age": 25,
+    "height": "6' 10\"",
+    "weight": "235 lbs",
+    "college": "Gonzaga",
+    "contract": "$1,955,377",
+    "image": "../images/players/Timme.png"
+  },
+  {
     "id": 50,
     "name": "Jarred Vanderbilt",
     "jersey": 2,
@@ -166,17 +190,5 @@
     "college": "Kentucky",
     "contract": "$11,571,429",
     "image": "../images/players/Vanderbilt.png"
-  },
-  {
-    "id": 55,
-    "name": "Gabe Vincent",
-    "jersey": 7,
-    "position": "PG",
-    "age": 28,
-    "height": "6' 2\"",
-    "weight": "200 lbs",
-    "college": "UC Santa Barbara",
-    "contract": "$11,500,000",
-    "image": "../images/players/Vincent.png"
   }
 ]
